@@ -91,6 +91,7 @@ depuis la racine de la machine :
     RewriteEngine on
      </VirtualHost>
 ->activer virtual host:
+->  `sudo a2ensite site.conf`
 ->
 
 
@@ -100,10 +101,11 @@ depuis la racine de la machine :
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDAyMjYwNSwxNzYzOTkwOTQyLC0xMD
-I3MTkyMTM4LC04MDgyMzA2MjksLTg1MTcwNDc4NSwxNDc2NTI3
-ODg0LC0xNzM3MTEyMTkwLC0xMTczNjUwNTgwLC0xNDkyODM2MT
-UzLC02NDYzNzk0MTAsLTEzNzA4ODQ4MTMsLTIwODY4MDgzNzIs
-MjEyNTM1MjQ0MV19
+eyJoaXN0b3J5IjpbNjI0ODczODczLDE3NjM5OTA5NDIsLTEwMj
+cxOTIxMzgsLTgwODIzMDYyOSwtODUxNzA0Nzg1LDE0NzY1Mjc4
+ODQsLTE3MzcxMTIxOTAsLTExNzM2NTA1ODAsLTE0OTI4MzYxNT
+MsLTY0NjM3OTQxMCwtMTM3MDg4NDgxMywtMjA4NjgwODM3Miwy
+MTI1MzUyNDQxXX0=
 -->
