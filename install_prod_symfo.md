@@ -67,7 +67,7 @@ https://doc.ubuntu-fr.org/acl
 ->verifier avec un ll que le dossier var a bien les droits  avec un +
 
 ### virtual_host
-but : permet d'avoir une url plus propre ,et ne pas permettre l a
+but : permet d'avoir une url plus propre ,et ne pas permettre l acces a notre architecture
 
 depuis la racine de la machine :
 ->cd `/etc/apache2/sites-available`
@@ -109,7 +109,7 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU5NzQ3NDUsLTIzNTQwMjY5MywtMT
+eyJoaXN0b3J5IjpbLTE4MTA5MzY3MDksLTIzNTQwMjY5MywtMT
 c5MDc0MjgwMSwtNDAwNTI0OTgxLDE3NjM5OTA5NDIsLTEwMjcx
 OTIxMzgsLTgwODIzMDYyOSwtODUxNzA0Nzg1LDE0NzY1Mjc4OD
 QsLTE3MzcxMTIxOTAsLTExNzM2NTA1ODAsLTE0OTI4MzYxNTMs
