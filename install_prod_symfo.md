@@ -104,8 +104,10 @@ depuis la racine de la machine :
 ## phpmyadmin
 
 - sudo apt install phpmyadmin
-entrer yes
-sélectionner apache2 et bien mettre
+- premiere question ->entrer yes
+- sélectionner apache2 et bien mettre * avec la barre d'espace
+- configure database -> entrer non
+- 
 
 
 
@@ -115,7 +117,7 @@ sélectionner apache2 et bien mettre
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDM5MjYxODcsLTIyNTM5Nzg4MSwtMT
+eyJoaXN0b3J5IjpbLTEyNzI3NDA3ODAsLTIyNTM5Nzg4MSwtMT
 gxMDkzNjcwOSwtMjM1NDAyNjkzLC0xNzkwNzQyODAxLC00MDA1
 MjQ5ODEsMTc2Mzk5MDk0MiwtMTAyNzE5MjEzOCwtODA4MjMwNj
 I5LC04NTE3MDQ3ODUsMTQ3NjUyNzg4NCwtMTczNzExMjE5MCwt
