@@ -49,6 +49,7 @@ https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewri
 ### apache
 1-composer update  --optimize-autoloader --no-dev 
 2- verifier que le ht access a bien été configure : 
+->cd public
 ->cat .htaccess
 3-
 
@@ -57,7 +58,7 @@ https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDY1NjkyNywtMTQ5MjgzNjE1MywtNj
-Q2Mzc5NDEwLC0xMzcwODg0ODEzLC0yMDg2ODA4MzcyLDIxMjUz
-NTI0NDFdfQ==
+eyJoaXN0b3J5IjpbLTExNzM2NTA1ODAsLTE0OTI4MzYxNTMsLT
+Y0NjM3OTQxMCwtMTM3MDg4NDgxMywtMjA4NjgwODM3MiwyMTI1
+MzUyNDQxXX0=
 -->
