@@ -1,5 +1,5 @@
 
-## mise en prod projet symfo
+## mise en prod projet symfo + phpmyadmin
 
 > Written by [mika](https://github.com/mikhaelrihani/).
 ### Gestion Serveur cloud
@@ -109,10 +109,10 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg1ODY5NDksLTE4MTA5MzY3MDksLT
-IzNTQwMjY5MywtMTc5MDc0MjgwMSwtNDAwNTI0OTgxLDE3NjM5
-OTA5NDIsLTEwMjcxOTIxMzgsLTgwODIzMDYyOSwtODUxNzA0Nz
-g1LDE0NzY1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNzM2NTA1ODAs
-LTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4NDgxMywtMj
-A4NjgwODM3MiwyMTI1MzUyNDQxXX0=
+eyJoaXN0b3J5IjpbMTQwNTUzOTY0MywtMTgxMDkzNjcwOSwtMj
+M1NDAyNjkzLC0xNzkwNzQyODAxLC00MDA1MjQ5ODEsMTc2Mzk5
+MDk0MiwtMTAyNzE5MjEzOCwtODA4MjMwNjI5LC04NTE3MDQ3OD
+UsMTQ3NjUyNzg4NCwtMTczNzExMjE5MCwtMTE3MzY1MDU4MCwt
+MTQ5MjgzNjE1MywtNjQ2Mzc5NDEwLC0xMzcwODg0ODEzLC0yMD
+g2ODA4MzcyLDIxMjUzNTI0NDFdfQ==
 -->
