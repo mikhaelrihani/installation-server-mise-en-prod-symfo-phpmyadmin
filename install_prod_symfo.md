@@ -3,6 +3,7 @@
 
 > Written by [mika](https://github.com/mikhaelrihani/).
 ### Gestion Serveur cloud
+- https://kourou.oclock.io/ressources/vm-cloud/
  -   **Nom de la machine :**  mikhaelrihani-server.cloud
 -   **Adresse de la machine :**  [http://mikhaelrihani-server.eddi.cloud](http://mikhaelrihani-server.eddi.cloud/)
 
@@ -105,9 +106,9 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDUyNDk4MSwxNzYzOTkwOTQyLC0xMD
-I3MTkyMTM4LC04MDgyMzA2MjksLTg1MTcwNDc4NSwxNDc2NTI3
-ODg0LC0xNzM3MTEyMTkwLC0xMTczNjUwNTgwLC0xNDkyODM2MT
-UzLC02NDYzNzk0MTAsLTEzNzA4ODQ4MTMsLTIwODY4MDgzNzIs
-MjEyNTM1MjQ0MV19
+eyJoaXN0b3J5IjpbLTE3OTA3NDI4MDEsLTQwMDUyNDk4MSwxNz
+YzOTkwOTQyLC0xMDI3MTkyMTM4LC04MDgyMzA2MjksLTg1MTcw
+NDc4NSwxNDc2NTI3ODg0LC0xNzM3MTEyMTkwLC0xMTczNjUwNT
+gwLC0xNDkyODM2MTUzLC02NDYzNzk0MTAsLTEzNzA4ODQ4MTMs
+LTIwODY4MDgzNzIsMjEyNTM1MjQ0MV19
 -->
