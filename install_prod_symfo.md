@@ -70,9 +70,9 @@ https://doc.ubuntu-fr.org/acl
 but : permet d'avoir une url plus propre ,et ne pas permettre l acces a notre architecture
 
 depuis la racine de la machine :
-->cd `/etc/apache2/sites-available`
-->sudo nano site.conf
-->entrez ce bout ce code et finir par ctrl x, y,entree
+- cd `/etc/apache2/sites-available`
+- sudo nano site.conf
+- entrez ce bout ce code et finir par ctrl x, y,entree
 
 <VirtualHost *:80>
 
@@ -92,10 +92,10 @@ depuis la racine de la machine :
     </Directory>
     RewriteEngine on
      </VirtualHost>
-->activer virtual host:
+##### activer virtual host:
 -  `sudo a2ensite site.conf`
--> sudo a2dissite 000-default.conf
-->`sudo systemctl restart apache2`
+- sudo a2dissite 000-default.conf
+- `sudo systemctl restart apache2`
 
 
 ### phpmyadmin
@@ -109,10 +109,10 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI4MTExOTMsLTE4MTA5MzY3MDksLT
-IzNTQwMjY5MywtMTc5MDc0MjgwMSwtNDAwNTI0OTgxLDE3NjM5
-OTA5NDIsLTEwMjcxOTIxMzgsLTgwODIzMDYyOSwtODUxNzA0Nz
-g1LDE0NzY1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNzM2NTA1ODAs
-LTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4NDgxMywtMj
-A4NjgwODM3MiwyMTI1MzUyNDQxXX0=
+eyJoaXN0b3J5IjpbLTUwODAzODExNywtMTgxMDkzNjcwOSwtMj
+M1NDAyNjkzLC0xNzkwNzQyODAxLC00MDA1MjQ5ODEsMTc2Mzk5
+MDk0MiwtMTAyNzE5MjEzOCwtODA4MjMwNjI5LC04NTE3MDQ3OD
+UsMTQ3NjUyNzg4NCwtMTczNzExMjE5MCwtMTE3MzY1MDU4MCwt
+MTQ5MjgzNjE1MywtNjQ2Mzc5NDEwLC0xMzcwODg0ODEzLC0yMD
+g2ODA4MzcyLDIxMjUzNTI0NDFdfQ==
 -->
