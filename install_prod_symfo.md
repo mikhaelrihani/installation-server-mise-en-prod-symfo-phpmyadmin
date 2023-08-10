@@ -107,7 +107,9 @@ depuis la racine de la machine :
 - premiere question ->entrer yes
 - sélectionner apache2 et bien mettre * avec la barre d'espace
 - configure database -> entrer non
-- identifiant admin admin
+ 
+ se connecter sur nom-de-domaine/phpmyadmin
+->identifiant admin / admin
 
 
 
@@ -118,7 +120,7 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTYyNzE2NDMsLTIyNTM5Nzg4MSwtMT
+eyJoaXN0b3J5IjpbLTE1ODA3ODA1MjcsLTIyNTM5Nzg4MSwtMT
 gxMDkzNjcwOSwtMjM1NDAyNjkzLC0xNzkwNzQyODAxLC00MDA1
 MjQ5ODEsMTc2Mzk5MDk0MiwtMTAyNzE5MjEzOCwtODA4MjMwNj
 I5LC04NTE3MDQ3ODUsMTQ3NjUyNzg4NCwtMTczNzExMjE5MCwt
