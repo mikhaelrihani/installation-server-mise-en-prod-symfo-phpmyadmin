@@ -67,7 +67,8 @@ https://doc.ubuntu-fr.org/acl
 
 ### virtual_host
 
-
+depuis la racine de la machine :
+->cd `/etc/apache2/sites-available`
 
 
 
@@ -76,8 +77,8 @@ https://doc.ubuntu-fr.org/acl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODIzMDYyOSwtODUxNzA0Nzg1LDE0Nz
-Y1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNzM2NTA1ODAsLTE0OTI4
-MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4NDgxMywtMjA4NjgwOD
-M3MiwyMTI1MzUyNDQxXX0=
+eyJoaXN0b3J5IjpbLTEyODUyMTkwODgsLTgwODIzMDYyOSwtOD
+UxNzA0Nzg1LDE0NzY1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNzM2
+NTA1ODAsLTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4ND
+gxMywtMjA4NjgwODM3MiwyMTI1MzUyNDQxXX0=
 -->
