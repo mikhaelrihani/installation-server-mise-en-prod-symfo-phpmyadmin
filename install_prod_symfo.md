@@ -23,16 +23,16 @@ https://symfony.com/doc/current/setup/file_permissions.html#configuring-permissi
 https://doc.ubuntu-fr.org/acl
 
  ### général
-1 - se connecter a notre vm server par le terminal: ssh    student@mikhaelrihani-server.eddi.cloud
-2- aller dans le dossier cd /var/www/html 
-3-cloner le projet 
-4- aller dans le dossier cd /var/www/html/"projet"
-5-composer install --no-dev --optimize-autoloader
+ - se connecter a notre vm server par le terminal: ssh    student@mikhaelrihani-server.eddi.cloud
+- aller dans le dossier cd /var/www/html 
+- cloner le projet 
+- aller dans le dossier cd /var/www/html/"projet"
+-composer install --no-dev --optimize-autoloader
 
 **APP_ENV**
 
-1- cp .env .env.local
-2 - nano .env.local
+- cp .env .env.local
+ - nano .env.local
     ->APP_ENV=prod
     -> sudo mariadb -V
     ->par dessus les nuages
@@ -109,10 +109,10 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODAzODExNywtMTgxMDkzNjcwOSwtMj
-M1NDAyNjkzLC0xNzkwNzQyODAxLC00MDA1MjQ5ODEsMTc2Mzk5
-MDk0MiwtMTAyNzE5MjEzOCwtODA4MjMwNjI5LC04NTE3MDQ3OD
-UsMTQ3NjUyNzg4NCwtMTczNzExMjE5MCwtMTE3MzY1MDU4MCwt
-MTQ5MjgzNjE1MywtNjQ2Mzc5NDEwLC0xMzcwODg0ODEzLC0yMD
-g2ODA4MzcyLDIxMjUzNTI0NDFdfQ==
+eyJoaXN0b3J5IjpbMTY2OTkyMTAxLC0xODEwOTM2NzA5LC0yMz
+U0MDI2OTMsLTE3OTA3NDI4MDEsLTQwMDUyNDk4MSwxNzYzOTkw
+OTQyLC0xMDI3MTkyMTM4LC04MDgyMzA2MjksLTg1MTcwNDc4NS
+wxNDc2NTI3ODg0LC0xNzM3MTEyMTkwLC0xMTczNjUwNTgwLC0x
+NDkyODM2MTUzLC02NDYzNzk0MTAsLTEzNzA4ODQ4MTMsLTIwOD
+Y4MDgzNzIsMjEyNTM1MjQ0MV19
 -->
