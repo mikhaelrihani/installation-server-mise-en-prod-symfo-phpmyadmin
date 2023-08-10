@@ -70,7 +70,22 @@ https://doc.ubuntu-fr.org/acl
 depuis la racine de la machine :
 ->cd `/etc/apache2/sites-available`
 ->sudo nano site.conf
-->
+
+<VirtualHost *:80>
+    ServerName mikhaelrihani-server.cloud
+    DocumentRoot /var/www/symfo-oflix-journee-19-mikhaelrihani/public
+
+    ErrorLog /var/log/apache2/project_error.log
+    CustomLog /var/log/apache2/project_access.log combined
+    <Directory /var/www/symfo-oflix-journee-19-mikhaelrihani/public>     
+                Options indexes
+                AllowOverride all
+                Allow from all
+                Require all granted
+    </Directory>
+    RewriteEngine on
+     </VirtualHost>
+
 
 
 
@@ -79,8 +94,9 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjcxOTIxMzgsLTgwODIzMDYyOSwtOD
-UxNzA0Nzg1LDE0NzY1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNzM2
-NTA1ODAsLTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4ND
-gxMywtMjA4NjgwODM3MiwyMTI1MzUyNDQxXX0=
+eyJoaXN0b3J5IjpbMTA1ODg3NTQ3LC0xMDI3MTkyMTM4LC04MD
+gyMzA2MjksLTg1MTcwNDc4NSwxNDc2NTI3ODg0LC0xNzM3MTEy
+MTkwLC0xMTczNjUwNTgwLC0xNDkyODM2MTUzLC02NDYzNzk0MT
+AsLTEzNzA4ODQ4MTMsLTIwODY4MDgzNzIsMjEyNTM1MjQ0MV19
+
 -->
