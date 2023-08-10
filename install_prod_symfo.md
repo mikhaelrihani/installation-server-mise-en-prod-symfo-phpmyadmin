@@ -23,6 +23,8 @@ https://symfony.com/doc/current/setup/file_permissions.html#configuring-permissi
 
 https://doc.ubuntu-fr.org/acl
 
+https://doc.ubuntu-fr.org/phpmyadmin
+
  ### général
  - se connecter a notre vm server par le terminal: ssh    student@mikhaelrihani-server.eddi.cloud
 - aller dans le dossier cd /var/www/html 
@@ -101,7 +103,7 @@ depuis la racine de la machine :
 
 ## phpmyadmin
 
-
+- sudo apt install phpmyadmin
 
 
 
@@ -112,10 +114,10 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTM5Nzg4MSwtMTgxMDkzNjcwOSwtMj
-M1NDAyNjkzLC0xNzkwNzQyODAxLC00MDA1MjQ5ODEsMTc2Mzk5
-MDk0MiwtMTAyNzE5MjEzOCwtODA4MjMwNjI5LC04NTE3MDQ3OD
-UsMTQ3NjUyNzg4NCwtMTczNzExMjE5MCwtMTE3MzY1MDU4MCwt
-MTQ5MjgzNjE1MywtNjQ2Mzc5NDEwLC0xMzcwODg0ODEzLC0yMD
-g2ODA4MzcyLDIxMjUzNTI0NDFdfQ==
+eyJoaXN0b3J5IjpbLTYxNjAyMjExOSwtMjI1Mzk3ODgxLC0xOD
+EwOTM2NzA5LC0yMzU0MDI2OTMsLTE3OTA3NDI4MDEsLTQwMDUy
+NDk4MSwxNzYzOTkwOTQyLC0xMDI3MTkyMTM4LC04MDgyMzA2Mj
+ksLTg1MTcwNDc4NSwxNDc2NTI3ODg0LC0xNzM3MTEyMTkwLC0x
+MTczNjUwNTgwLC0xNDkyODM2MTUzLC02NDYzNzk0MTAsLTEzNz
+A4ODQ4MTMsLTIwODY4MDgzNzIsMjEyNTM1MjQ0MV19
 -->
