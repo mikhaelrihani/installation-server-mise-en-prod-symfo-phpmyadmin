@@ -59,20 +59,17 @@ https://doc.ubuntu-fr.org/acl
 
 ### ACL linux
 
-1- depuis le projet :
--   `sudo apt-get install -y acl`
-- HTTPDUSER=$(ps axo user,comm | grep -E '[a]pache|[h]ttpd|[_]www|[w]ww-data|[n]ginx' | grep -v root | head -1 | cut -d\  -f1)
+-> depuis le projet :
+- sudo apt-get install -y acl
+- 
 
-
--   `sudo setfacl -dR -m u:“$HTTPDUSER”:rwX -m u:$(whoami):rwX var`
--   `sudo setfacl -R -m u:“$HTTPDUSER”:rwX -m u:$(whoami):rwX var`
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzcxMDYyMywtMTczNzExMjE5MCwtMT
-E3MzY1MDU4MCwtMTQ5MjgzNjE1MywtNjQ2Mzc5NDEwLC0xMzcw
-ODg0ODEzLC0yMDg2ODA4MzcyLDIxMjUzNTI0NDFdfQ==
+eyJoaXN0b3J5IjpbLTE2MTUwNTY4MjcsLTE3MzcxMTIxOTAsLT
+ExNzM2NTA1ODAsLTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMTM3
+MDg4NDgxMywtMjA4NjgwODM3MiwyMTI1MzUyNDQxXX0=
 -->
