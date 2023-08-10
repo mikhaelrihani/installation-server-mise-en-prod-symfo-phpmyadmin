@@ -25,6 +25,8 @@ https://doc.ubuntu-fr.org/acl
 
 https://doc.ubuntu-fr.org/phpmyadmin
 
+https://github.com/O-Clock-Vega/S08-script-serveur
+
  ### général
  - se connecter a notre vm server par le terminal: ssh    student@mikhaelrihani-server.eddi.cloud
 - aller dans le dossier cd /var/www/html 
@@ -133,11 +135,11 @@ depuis vscode c 'est mieux indenté,il existe des extensions pour etre plus clai
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3NDIzNzYzLC01MjQ4NDU2OTIsLTE2OT
-U1MTY5MTAsLTE1ODA3ODA1MjcsLTIyNTM5Nzg4MSwtMTgxMDkz
-NjcwOSwtMjM1NDAyNjkzLC0xNzkwNzQyODAxLC00MDA1MjQ5OD
-EsMTc2Mzk5MDk0MiwtMTAyNzE5MjEzOCwtODA4MjMwNjI5LC04
-NTE3MDQ3ODUsMTQ3NjUyNzg4NCwtMTczNzExMjE5MCwtMTE3Mz
-Y1MDU4MCwtMTQ5MjgzNjE1MywtNjQ2Mzc5NDEwLC0xMzcwODg0
-ODEzLC0yMDg2ODA4MzcyXX0=
+eyJoaXN0b3J5IjpbLTczNjc2ODMwMiwtNTI0ODQ1NjkyLC0xNj
+k1NTE2OTEwLC0xNTgwNzgwNTI3LC0yMjUzOTc4ODEsLTE4MTA5
+MzY3MDksLTIzNTQwMjY5MywtMTc5MDc0MjgwMSwtNDAwNTI0OT
+gxLDE3NjM5OTA5NDIsLTEwMjcxOTIxMzgsLTgwODIzMDYyOSwt
+ODUxNzA0Nzg1LDE0NzY1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNz
+M2NTA1ODAsLTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4
+NDgxMywtMjA4NjgwODM3Ml19
 -->
