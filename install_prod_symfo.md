@@ -2,7 +2,11 @@
 ## mise en prod projet symfo
 
 > Written by [mika](https://github.com/mikhaelrihani/).
-1 -  ### général
+### DOC
+
+https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewrite-rules-for-apache
+
+ ### général
 1 - se connecter a notre vm server par le terminal: ssh    student@mikhaelrihani-server.eddi.cloud
 2- aller dans le dossier cd /var/www/html 
 3-cloner le projet 
@@ -33,10 +37,10 @@
 
 ### apache
 
-doc -> 
+doc -> https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewrite-rules-for-apache
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzNTgwNywyMTI1MzUyNDQxXX0=
+eyJoaXN0b3J5IjpbMjE0MjQwMTcyMCwyMTI1MzUyNDQxXX0=
 -->
