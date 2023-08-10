@@ -97,6 +97,8 @@ depuis la racine de la machine :
 ->`sudo systemctl restart apache2`
 
 
+### phpmyadmin
+
 
 
 
@@ -106,9 +108,9 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA3NDI4MDEsLTQwMDUyNDk4MSwxNz
-YzOTkwOTQyLC0xMDI3MTkyMTM4LC04MDgyMzA2MjksLTg1MTcw
-NDc4NSwxNDc2NTI3ODg0LC0xNzM3MTEyMTkwLC0xMTczNjUwNT
-gwLC0xNDkyODM2MTUzLC02NDYzNzk0MTAsLTEzNzA4ODQ4MTMs
-LTIwODY4MDgzNzIsMjEyNTM1MjQ0MV19
+eyJoaXN0b3J5IjpbMTEwNzc3MTYxOSwtMTc5MDc0MjgwMSwtND
+AwNTI0OTgxLDE3NjM5OTA5NDIsLTEwMjcxOTIxMzgsLTgwODIz
+MDYyOSwtODUxNzA0Nzg1LDE0NzY1Mjc4ODQsLTE3MzcxMTIxOT
+AsLTExNzM2NTA1ODAsLTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwt
+MTM3MDg4NDgxMywtMjA4NjgwODM3MiwyMTI1MzUyNDQxXX0=
 -->
