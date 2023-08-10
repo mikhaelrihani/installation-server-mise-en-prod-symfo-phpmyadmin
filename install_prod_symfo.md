@@ -70,6 +70,7 @@ https://doc.ubuntu-fr.org/acl
 depuis la racine de la machine :
 ->cd `/etc/apache2/sites-available`
 ->sudo nano site.conf
+->
 
 
 
@@ -78,8 +79,8 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0MjQ1MzcsLTgwODIzMDYyOSwtODUxNz
-A0Nzg1LDE0NzY1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNzM2NTA1
-ODAsLTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4NDgxMy
-wtMjA4NjgwODM3MiwyMTI1MzUyNDQxXX0=
+eyJoaXN0b3J5IjpbLTEwMjcxOTIxMzgsLTgwODIzMDYyOSwtOD
+UxNzA0Nzg1LDE0NzY1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNzM2
+NTA1ODAsLTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4ND
+gxMywtMjA4NjgwODM3MiwyMTI1MzUyNDQxXX0=
 -->
