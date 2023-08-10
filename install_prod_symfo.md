@@ -33,27 +33,27 @@ https://doc.ubuntu-fr.org/acl
 
 - cp .env .env.local
  - nano .env.local
-    ->APP_ENV=prod
-    -> sudo mariadb -V
-    ->par dessus les nuages
-    ->pseudo=admin, password=admin
+    - APP_ENV=prod
+    -  sudo mariadb -V
+    - par dessus les nuages
+    - pseudo=admin, password=admin
     >DATABASE_URL="mysql://pseudo:password@127.0.0.1:3306/vega? serverVersion=mariadb-10.3.38&charset=utf8mb4"
    ->décommenter les variables 
    ->control x, y, entree
    
-   3- composer dump-env prod
+  - composer dump-env prod
    
    ### bdd
-  1- php bin/console do:da:cr
-  2- php bin/console do:mi:mi
+  - php bin/console do:da:cr
+  - php bin/console do:mi:mi
   
 ### Clear  Symfony Cache
 
-1- APP_ENV=prod APP_DEBUG=0 php bin/console cache: clear
+- APP_ENV=prod APP_DEBUG=0 php bin/console cache: clear
 
 ### apache
-1-composer update  --optimize-autoloader --no-dev 
-2- verifier que le ht access a bien été configure : 
+- composer update  --optimize-autoloader --no-dev 
+- verifier que le ht access a bien été configure : 
 ->cd public
 ->cat .htaccess
 
@@ -109,10 +109,10 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTkyMTAxLC0xODEwOTM2NzA5LC0yMz
-U0MDI2OTMsLTE3OTA3NDI4MDEsLTQwMDUyNDk4MSwxNzYzOTkw
-OTQyLC0xMDI3MTkyMTM4LC04MDgyMzA2MjksLTg1MTcwNDc4NS
-wxNDc2NTI3ODg0LC0xNzM3MTEyMTkwLC0xMTczNjUwNTgwLC0x
-NDkyODM2MTUzLC02NDYzNzk0MTAsLTEzNzA4ODQ4MTMsLTIwOD
-Y4MDgzNzIsMjEyNTM1MjQ0MV19
+eyJoaXN0b3J5IjpbLTE3MTg1ODY5NDksLTE4MTA5MzY3MDksLT
+IzNTQwMjY5MywtMTc5MDc0MjgwMSwtNDAwNTI0OTgxLDE3NjM5
+OTA5NDIsLTEwMjcxOTIxMzgsLTgwODIzMDYyOSwtODUxNzA0Nz
+g1LDE0NzY1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNzM2NTA1ODAs
+LTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4NDgxMywtMj
+A4NjgwODM3MiwyMTI1MzUyNDQxXX0=
 -->
