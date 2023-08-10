@@ -119,6 +119,9 @@ depuis vscode c 'est mieux indenté,il existe des extensions pour etre plus clai
 ->utiliser bcrypt pour hasher le password d'un nouvel user
 
 
+script serveur :
+
+
 
 
 
@@ -128,11 +131,11 @@ depuis vscode c 'est mieux indenté,il existe des extensions pour etre plus clai
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDg0NTY5MiwtMTY5NTUxNjkxMCwtMT
-U4MDc4MDUyNywtMjI1Mzk3ODgxLC0xODEwOTM2NzA5LC0yMzU0
-MDI2OTMsLTE3OTA3NDI4MDEsLTQwMDUyNDk4MSwxNzYzOTkwOT
-QyLC0xMDI3MTkyMTM4LC04MDgyMzA2MjksLTg1MTcwNDc4NSwx
-NDc2NTI3ODg0LC0xNzM3MTEyMTkwLC0xMTczNjUwNTgwLC0xND
-kyODM2MTUzLC02NDYzNzk0MTAsLTEzNzA4ODQ4MTMsLTIwODY4
-MDgzNzIsMjEyNTM1MjQ0MV19
+eyJoaXN0b3J5IjpbLTEzMjU2MDI4ODMsLTUyNDg0NTY5MiwtMT
+Y5NTUxNjkxMCwtMTU4MDc4MDUyNywtMjI1Mzk3ODgxLC0xODEw
+OTM2NzA5LC0yMzU0MDI2OTMsLTE3OTA3NDI4MDEsLTQwMDUyND
+k4MSwxNzYzOTkwOTQyLC0xMDI3MTkyMTM4LC04MDgyMzA2Mjks
+LTg1MTcwNDc4NSwxNDc2NTI3ODg0LC0xNzM3MTEyMTkwLC0xMT
+czNjUwNTgwLC0xNDkyODM2MTUzLC02NDYzNzk0MTAsLTEzNzA4
+ODQ4MTMsLTIwODY4MDgzNzJdfQ==
 -->
