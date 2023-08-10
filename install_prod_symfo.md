@@ -120,7 +120,8 @@ depuis vscode c 'est mieux indenté,il existe des extensions pour etre plus clai
 
 ## installation du serveur
 
-cloner le script serveur : git clone git@github.com:O-Clock-Vega/S08-script-serveur.git
+- cloner le script serveur : git clone git@github.com:O-Clock-Vega/S08-script-serveur.git
+- depuis le dossier du script : sh installation-serveur.sh
 
 
 
@@ -132,11 +133,11 @@ cloner le script serveur : git clone git@github.com:O-Clock-Vega/S08-script-serv
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDIxMTM4OCwtNTI0ODQ1NjkyLC0xNj
-k1NTE2OTEwLC0xNTgwNzgwNTI3LC0yMjUzOTc4ODEsLTE4MTA5
-MzY3MDksLTIzNTQwMjY5MywtMTc5MDc0MjgwMSwtNDAwNTI0OT
-gxLDE3NjM5OTA5NDIsLTEwMjcxOTIxMzgsLTgwODIzMDYyOSwt
-ODUxNzA0Nzg1LDE0NzY1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNz
-M2NTA1ODAsLTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4
-NDgxMywtMjA4NjgwODM3Ml19
+eyJoaXN0b3J5IjpbOTU3NDIzNzYzLC01MjQ4NDU2OTIsLTE2OT
+U1MTY5MTAsLTE1ODA3ODA1MjcsLTIyNTM5Nzg4MSwtMTgxMDkz
+NjcwOSwtMjM1NDAyNjkzLC0xNzkwNzQyODAxLC00MDA1MjQ5OD
+EsMTc2Mzk5MDk0MiwtMTAyNzE5MjEzOCwtODA4MjMwNjI5LC04
+NTE3MDQ3ODUsMTQ3NjUyNzg4NCwtMTczNzExMjE5MCwtMTE3Mz
+Y1MDU4MCwtMTQ5MjgzNjE1MywtNjQ2Mzc5NDEwLC0xMzcwODg0
+ODEzLC0yMDg2ODA4MzcyXX0=
 -->
