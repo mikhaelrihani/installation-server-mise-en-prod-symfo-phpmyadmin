@@ -90,6 +90,8 @@ depuis la racine de la machine :
     </Directory>
     RewriteEngine on
      </VirtualHost>
+->activer virtual host:
+->
 
 
 
@@ -99,9 +101,9 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Mzk5MDk0MiwtMTAyNzE5MjEzOCwtOD
-A4MjMwNjI5LC04NTE3MDQ3ODUsMTQ3NjUyNzg4NCwtMTczNzEx
-MjE5MCwtMTE3MzY1MDU4MCwtMTQ5MjgzNjE1MywtNjQ2Mzc5ND
-EwLC0xMzcwODg0ODEzLC0yMDg2ODA4MzcyLDIxMjUzNTI0NDFd
-fQ==
+eyJoaXN0b3J5IjpbMTQxMDAyMjYwNSwxNzYzOTkwOTQyLC0xMD
+I3MTkyMTM4LC04MDgyMzA2MjksLTg1MTcwNDc4NSwxNDc2NTI3
+ODg0LC0xNzM3MTEyMTkwLC0xMTczNjUwNTgwLC0xNDkyODM2MT
+UzLC02NDYzNzk0MTAsLTEzNzA4ODQ4MTMsLTIwODY4MDgzNzIs
+MjEyNTM1MjQ0MV19
 -->
