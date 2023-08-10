@@ -118,8 +118,9 @@ depuis vscode c 'est mieux indenté,il existe des extensions pour etre plus clai
 ->identifiant admin / admin
 ->utiliser bcrypt pour hasher le password d'un nouvel user
 
+## installation du serveur
 
-script serveur :
+cloner le script serveur : git clone git@github.com:O-Clock-Vega/S08-script-serveur.git
 
 
 
@@ -131,11 +132,11 @@ script serveur :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU2MDI4ODMsLTUyNDg0NTY5MiwtMT
-Y5NTUxNjkxMCwtMTU4MDc4MDUyNywtMjI1Mzk3ODgxLC0xODEw
-OTM2NzA5LC0yMzU0MDI2OTMsLTE3OTA3NDI4MDEsLTQwMDUyND
-k4MSwxNzYzOTkwOTQyLC0xMDI3MTkyMTM4LC04MDgyMzA2Mjks
-LTg1MTcwNDc4NSwxNDc2NTI3ODg0LC0xNzM3MTEyMTkwLC0xMT
-czNjUwNTgwLC0xNDkyODM2MTUzLC02NDYzNzk0MTAsLTEzNzA4
-ODQ4MTMsLTIwODY4MDgzNzJdfQ==
+eyJoaXN0b3J5IjpbMTMzNDIxMTM4OCwtNTI0ODQ1NjkyLC0xNj
+k1NTE2OTEwLC0xNTgwNzgwNTI3LC0yMjUzOTc4ODEsLTE4MTA5
+MzY3MDksLTIzNTQwMjY5MywtMTc5MDc0MjgwMSwtNDAwNTI0OT
+gxLDE3NjM5OTA5NDIsLTEwMjcxOTIxMzgsLTgwODIzMDYyOSwt
+ODUxNzA0Nzg1LDE0NzY1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNz
+M2NTA1ODAsLTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4
+NDgxMywtMjA4NjgwODM3Ml19
 -->
