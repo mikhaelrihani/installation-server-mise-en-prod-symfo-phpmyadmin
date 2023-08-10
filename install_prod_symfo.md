@@ -66,6 +66,8 @@ https://doc.ubuntu-fr.org/acl
 - sudo setfacl -R -m u:"$$HTTPDUSER":rwX -m u:$(whoami):rwX var
 ->verifier avec un ll que le dossier var a bien les droits  avec un +
 
+### virtual_host
+
 
 
 
@@ -75,7 +77,8 @@ https://doc.ubuntu-fr.org/acl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjUyNzg4NCwtMTczNzExMjE5MCwtMT
-E3MzY1MDU4MCwtMTQ5MjgzNjE1MywtNjQ2Mzc5NDEwLC0xMzcw
-ODg0ODEzLC0yMDg2ODA4MzcyLDIxMjUzNTI0NDFdfQ==
+eyJoaXN0b3J5IjpbLTg1MTcwNDc4NSwxNDc2NTI3ODg0LC0xNz
+M3MTEyMTkwLC0xMTczNjUwNTgwLC0xNDkyODM2MTUzLC02NDYz
+Nzk0MTAsLTEzNzA4ODQ4MTMsLTIwODY4MDgzNzIsMjEyNTM1Mj
+Q0MV19
 -->
