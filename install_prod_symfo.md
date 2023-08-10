@@ -37,8 +37,8 @@ https://doc.ubuntu-fr.org/phpmyadmin
 - cp .env .env.local
  - nano .env.local
     - APP_ENV=prod
-    -  sudo mariadb -V
-    - par dessus les nuages
+    -> sudo mariadb -V
+    -> par dessus les nuages
     - pseudo=admin, password=admin
     >DATABASE_URL="mysql://pseudo:password@127.0.0.1:3306/vega? serverVersion=mariadb-10.3.38&charset=utf8mb4"
    ->décommenter les variables 
@@ -122,11 +122,11 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU1MTY5MTAsLTE1ODA3ODA1MjcsLT
-IyNTM5Nzg4MSwtMTgxMDkzNjcwOSwtMjM1NDAyNjkzLC0xNzkw
-NzQyODAxLC00MDA1MjQ5ODEsMTc2Mzk5MDk0MiwtMTAyNzE5Mj
-EzOCwtODA4MjMwNjI5LC04NTE3MDQ3ODUsMTQ3NjUyNzg4NCwt
-MTczNzExMjE5MCwtMTE3MzY1MDU4MCwtMTQ5MjgzNjE1MywtNj
-Q2Mzc5NDEwLC0xMzcwODg0ODEzLC0yMDg2ODA4MzcyLDIxMjUz
-NTI0NDFdfQ==
+eyJoaXN0b3J5IjpbLTE2MDExMDcyMTQsLTE2OTU1MTY5MTAsLT
+E1ODA3ODA1MjcsLTIyNTM5Nzg4MSwtMTgxMDkzNjcwOSwtMjM1
+NDAyNjkzLC0xNzkwNzQyODAxLC00MDA1MjQ5ODEsMTc2Mzk5MD
+k0MiwtMTAyNzE5MjEzOCwtODA4MjMwNjI5LC04NTE3MDQ3ODUs
+MTQ3NjUyNzg4NCwtMTczNzExMjE5MCwtMTE3MzY1MDU4MCwtMT
+Q5MjgzNjE1MywtNjQ2Mzc5NDEwLC0xMzcwODg0ODEzLC0yMDg2
+ODA4MzcyLDIxMjUzNTI0NDFdfQ==
 -->
