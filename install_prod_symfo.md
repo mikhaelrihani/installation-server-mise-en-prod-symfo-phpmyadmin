@@ -47,8 +47,8 @@ https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewri
 1- APP_ENV=prod APP_DEBUG=0 php bin/console cache: clear
 
 ### apache
-
-1-composer require symphony/apache-pack --no-update
+1-composer update --no-dev --optimize-autoloader
+2-composer require symphony/apache-pack--no-update
 2-
 
 
@@ -56,6 +56,6 @@ https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA4ODQ4MTMsLTIwODY4MDgzNzIsMj
-EyNTM1MjQ0MV19
+eyJoaXN0b3J5IjpbMTI3Mjg2MTE4MCwtMTM3MDg4NDgxMywtMj
+A4NjgwODM3MiwyMTI1MzUyNDQxXX0=
 -->
