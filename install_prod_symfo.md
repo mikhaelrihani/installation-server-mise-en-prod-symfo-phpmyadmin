@@ -39,7 +39,7 @@ https://doc.ubuntu-fr.org/phpmyadmin
     - APP_ENV=prod
     -> sudo mariadb -V
     -> par dessus les nuages
-    - pseudo=admin, password=admin
+    -> pseudo=admin, password=admin
     >DATABASE_URL="mysql://pseudo:password@127.0.0.1:3306/vega? serverVersion=mariadb-10.3.38&charset=utf8mb4"
    ->décommenter les variables 
    ->control x, y, entree
@@ -100,6 +100,7 @@ depuis la racine de la machine :
 - sudo a2dissite 000-default.conf
 - `sudo systemctl restart apache2`
 
+### debugger 
 
 ## phpmyadmin
 
@@ -122,11 +123,11 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDExMDcyMTQsLTE2OTU1MTY5MTAsLT
-E1ODA3ODA1MjcsLTIyNTM5Nzg4MSwtMTgxMDkzNjcwOSwtMjM1
-NDAyNjkzLC0xNzkwNzQyODAxLC00MDA1MjQ5ODEsMTc2Mzk5MD
-k0MiwtMTAyNzE5MjEzOCwtODA4MjMwNjI5LC04NTE3MDQ3ODUs
-MTQ3NjUyNzg4NCwtMTczNzExMjE5MCwtMTE3MzY1MDU4MCwtMT
-Q5MjgzNjE1MywtNjQ2Mzc5NDEwLC0xMzcwODg0ODEzLC0yMDg2
-ODA4MzcyLDIxMjUzNTI0NDFdfQ==
+eyJoaXN0b3J5IjpbMjI5OTkzODgyLC0xNjk1NTE2OTEwLC0xNT
+gwNzgwNTI3LC0yMjUzOTc4ODEsLTE4MTA5MzY3MDksLTIzNTQw
+MjY5MywtMTc5MDc0MjgwMSwtNDAwNTI0OTgxLDE3NjM5OTA5ND
+IsLTEwMjcxOTIxMzgsLTgwODIzMDYyOSwtODUxNzA0Nzg1LDE0
+NzY1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNzM2NTA1ODAsLTE0OT
+I4MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4NDgxMywtMjA4Njgw
+ODM3MiwyMTI1MzUyNDQxXX0=
 -->
