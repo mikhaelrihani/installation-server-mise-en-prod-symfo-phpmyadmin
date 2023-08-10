@@ -101,7 +101,8 @@ depuis la racine de la machine :
 - `sudo systemctl restart apache2`
 
 ### debugger 
-
+depuis le terminal : /var/log/apache2
+depuis vscode c 'est mieux indenté,il existe des extensions pour 
 ## phpmyadmin
 
 - sudo apt install phpmyadmin
@@ -123,7 +124,7 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5OTkzODgyLC0xNjk1NTE2OTEwLC0xNT
+eyJoaXN0b3J5IjpbMzI4MzE2Njg3LC0xNjk1NTE2OTEwLC0xNT
 gwNzgwNTI3LC0yMjUzOTc4ODEsLTE4MTA5MzY3MDksLTIzNTQw
 MjY5MywtMTc5MDc0MjgwMSwtNDAwNTI0OTgxLDE3NjM5OTA5ND
 IsLTEwMjcxOTIxMzgsLTgwODIzMDYyOSwtODUxNzA0Nzg1LDE0
