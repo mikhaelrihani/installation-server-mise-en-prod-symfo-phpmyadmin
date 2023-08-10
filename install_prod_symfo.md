@@ -69,19 +69,23 @@ https://doc.ubuntu-fr.org/acl
 
 depuis la racine de la machine :
 ->cd `/etc/apache2/sites-available`
-->sudo nano site.conf
+->sudo nano site.con
 
 <VirtualHost *:80>
-    ServerName mikhaelrihani-server.cloud
-    DocumentRoot /var/www/symfo-oflix-journee-19-mikhaelrihani/public
 
+    ServerName mikhaelrihani-server.cloud
+    
+    DocumentRoot /var/www/symfo-oflix-journee-19-mikhaelrihani/public
+    
     ErrorLog /var/log/apache2/project_error.log
     CustomLog /var/log/apache2/project_access.log combined
+    
     <Directory /var/www/symfo-oflix-journee-19-mikhaelrihani/public>     
                 Options indexes
                 AllowOverride all
                 Allow from all
                 Require all granted
+                
     </Directory>
     RewriteEngine on
      </VirtualHost>
@@ -94,9 +98,9 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODg3NTQ3LC0xMDI3MTkyMTM4LC04MD
-gyMzA2MjksLTg1MTcwNDc4NSwxNDc2NTI3ODg0LC0xNzM3MTEy
-MTkwLC0xMTczNjUwNTgwLC0xNDkyODM2MTUzLC02NDYzNzk0MT
-AsLTEzNzA4ODQ4MTMsLTIwODY4MDgzNzIsMjEyNTM1MjQ0MV19
-
+eyJoaXN0b3J5IjpbMTE0NzM2NTYzMSwtMTAyNzE5MjEzOCwtOD
+A4MjMwNjI5LC04NTE3MDQ3ODUsMTQ3NjUyNzg4NCwtMTczNzEx
+MjE5MCwtMTE3MzY1MDU4MCwtMTQ5MjgzNjE1MywtNjQ2Mzc5ND
+EwLC0xMzcwODg0ODEzLC0yMDg2ODA4MzcyLDIxMjUzNTI0NDFd
+fQ==
 -->
