@@ -31,8 +31,12 @@
 
 1- APP_ENV=prod APP_DEBUG=0 php bin/console cache: clear
 
+### apache
+
+doc -> 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Njc5MTUwOSwyMTI1MzUyNDQxXX0=
+eyJoaXN0b3J5IjpbMzUzNTgwNywyMTI1MzUyNDQxXX0=
 -->
