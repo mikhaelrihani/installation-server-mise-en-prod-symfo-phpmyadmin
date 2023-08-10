@@ -55,7 +55,6 @@ https://doc.ubuntu-fr.org/acl
 2- verifier que le ht access a bien été configure : 
 ->cd public
 ->cat .htaccess
-3-
 
 ### ACL linux
 
@@ -77,8 +76,8 @@ https://doc.ubuntu-fr.org/acl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTcwNDc4NSwxNDc2NTI3ODg0LC0xNz
-M3MTEyMTkwLC0xMTczNjUwNTgwLC0xNDkyODM2MTUzLC02NDYz
-Nzk0MTAsLTEzNzA4ODQ4MTMsLTIwODY4MDgzNzIsMjEyNTM1Mj
-Q0MV19
+eyJoaXN0b3J5IjpbLTgwODIzMDYyOSwtODUxNzA0Nzg1LDE0Nz
+Y1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNzM2NTA1ODAsLTE0OTI4
+MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4NDgxMywtMjA4NjgwOD
+M3MiwyMTI1MzUyNDQxXX0=
 -->
