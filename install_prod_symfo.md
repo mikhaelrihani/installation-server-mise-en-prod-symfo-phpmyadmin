@@ -48,10 +48,14 @@ https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewri
 
 ### apache
 
+1-composer require symphony/apache-pack --no-update
+2-
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY4MDgzNzIsMjEyNTM1MjQ0MV19
+eyJoaXN0b3J5IjpbLTEzNzA4ODQ4MTMsLTIwODY4MDgzNzIsMj
+EyNTM1MjQ0MV19
 -->
