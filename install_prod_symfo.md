@@ -2,7 +2,13 @@
 ## mise en prod projet symfo
 
 > Written by [mika](https://github.com/mikhaelrihani/).
+### Gestion Serveur cloud
+ 
 ### DOC
+
+https://symfony.com/doc/5.4/deployment.html
+ 
+ https://github.com/O-Clock-Vega/symfo-les-md-de-ben/blob/master/mise-en-prod.md
 
 https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewrite-rules-for-apache
 
@@ -42,5 +48,5 @@ doc -> https://symfony.com/doc/current/setup/web_server_configuration.html#addin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjQwMTcyMCwyMTI1MzUyNDQxXX0=
+eyJoaXN0b3J5IjpbLTIwOTQyNjY0NzUsMjEyNTM1MjQ0MV19
 -->
