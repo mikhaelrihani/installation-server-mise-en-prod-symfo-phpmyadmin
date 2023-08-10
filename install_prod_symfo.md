@@ -48,15 +48,16 @@ https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewri
 
 ### apache
 1-composer update  --optimize-autoloader --no-dev 
-2- ver
-2-composer require symphony/apache-pack--no-update
-2-
+2- verifier le ht access a bien ete configure : 
+->cat .htaccess
+3-composer require symphony/apache-pack--no-update
+4-
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzgyOTc5MCwtNjQ2Mzc5NDEwLC0xMz
-cwODg0ODEzLC0yMDg2ODA4MzcyLDIxMjUzNTI0NDFdfQ==
+eyJoaXN0b3J5IjpbLTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMT
+M3MDg4NDgxMywtMjA4NjgwODM3MiwyMTI1MzUyNDQxXX0=
 -->
