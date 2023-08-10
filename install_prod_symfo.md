@@ -10,6 +10,7 @@
 
 -   **Commande SSH pour se connecter :** ssh student@mikhaelrihani-server.eddi.cloud
 -   **Mot de passe :** par dessus les nuages
+## mise en prod symfony
 ### DOC
 
 https://symfony.com/doc/5.4/deployment.html
@@ -98,7 +99,9 @@ depuis la racine de la machine :
 - `sudo systemctl restart apache2`
 
 
-### phpmyadmin
+## phpmyadmin
+
+
 
 
 
@@ -109,7 +112,7 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTUzOTY0MywtMTgxMDkzNjcwOSwtMj
+eyJoaXN0b3J5IjpbLTIyNTM5Nzg4MSwtMTgxMDkzNjcwOSwtMj
 M1NDAyNjkzLC0xNzkwNzQyODAxLC00MDA1MjQ5ODEsMTc2Mzk5
 MDk0MiwtMTAyNzE5MjEzOCwtODA4MjMwNjI5LC04NTE3MDQ3OD
 UsMTQ3NjUyNzg4NCwtMTczNzExMjE5MCwtMTE3MzY1MDU4MCwt
