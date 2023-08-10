@@ -64,6 +64,7 @@ https://doc.ubuntu-fr.org/acl
 - HTTPDUSER=$(ps axo user,comm | grep -E '[a]pache|[h]ttpd|[_]www|[w]ww-data|[n]ginx' | grep -v root | head -1 | cut -d\  -f1)
 - sudo setfacl -dR -m u:"$$HTTPDUSER":rwX -m u:$(whoami):rwX var
 - sudo setfacl -R -m u:"$$HTTPDUSER":rwX -m u:$(whoami):rwX var
+->verifier avec un ll que le dossier var a bien les droits  avec un +
 
 
 
@@ -74,7 +75,7 @@ https://doc.ubuntu-fr.org/acl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTk1NjY2NiwtMTczNzExMjE5MCwtMT
+eyJoaXN0b3J5IjpbMTQ3NjUyNzg4NCwtMTczNzExMjE5MCwtMT
 E3MzY1MDU4MCwtMTQ5MjgzNjE1MywtNjQ2Mzc5NDEwLC0xMzcw
 ODg0ODEzLC0yMDg2ODA4MzcyLDIxMjUzNTI0NDFdfQ==
 -->
