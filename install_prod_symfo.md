@@ -110,6 +110,8 @@ depuis la racine de la machine :
  
  se connecter sur nom-de-domaine/phpmyadmin
 ->identifiant admin / admin
+->utiliser bcrypt pour hasher le password d'un nouvel user
+
 
 
 
@@ -120,10 +122,11 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODA3ODA1MjcsLTIyNTM5Nzg4MSwtMT
-gxMDkzNjcwOSwtMjM1NDAyNjkzLC0xNzkwNzQyODAxLC00MDA1
-MjQ5ODEsMTc2Mzk5MDk0MiwtMTAyNzE5MjEzOCwtODA4MjMwNj
-I5LC04NTE3MDQ3ODUsMTQ3NjUyNzg4NCwtMTczNzExMjE5MCwt
-MTE3MzY1MDU4MCwtMTQ5MjgzNjE1MywtNjQ2Mzc5NDEwLC0xMz
-cwODg0ODEzLC0yMDg2ODA4MzcyLDIxMjUzNTI0NDFdfQ==
+eyJoaXN0b3J5IjpbLTE2OTU1MTY5MTAsLTE1ODA3ODA1MjcsLT
+IyNTM5Nzg4MSwtMTgxMDkzNjcwOSwtMjM1NDAyNjkzLC0xNzkw
+NzQyODAxLC00MDA1MjQ5ODEsMTc2Mzk5MDk0MiwtMTAyNzE5Mj
+EzOCwtODA4MjMwNjI5LC04NTE3MDQ3ODUsMTQ3NjUyNzg4NCwt
+MTczNzExMjE5MCwtMTE3MzY1MDU4MCwtMTQ5MjgzNjE1MywtNj
+Q2Mzc5NDEwLC0xMzcwODg0ODEzLC0yMDg2ODA4MzcyLDIxMjUz
+NTI0NDFdfQ==
 -->
