@@ -3,7 +3,12 @@
 
 > Written by [mika](https://github.com/mikhaelrihani/).
 ### Gestion Serveur cloud
- 
+ -   **Nom de la machine :**  mikhaelrihani-server.cloud
+-   **Adresse de la machine :**  [http://mikhaelrihani-server.eddi.cloud](http://mikhaelrihani-server.eddi.cloud/)
+
+
+-   **Commande SSH pour se connecter :** ssh student@mikhaelrihani-server.eddi.cloud
+-   **Mot de passe :** par dessus les nuages
 ### DOC
 
 https://symfony.com/doc/5.4/deployment.html
@@ -43,10 +48,10 @@ https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewri
 
 ### apache
 
-doc -> https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewrite-rules-for-apache
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQyNjY0NzUsMjEyNTM1MjQ0MV19
+eyJoaXN0b3J5IjpbLTIwODY4MDgzNzIsMjEyNTM1MjQ0MV19
 -->
