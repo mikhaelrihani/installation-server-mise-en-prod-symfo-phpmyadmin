@@ -75,14 +75,14 @@ depuis la racine de la machine :
 
 <VirtualHost *:80>
 
-    ServerName mikhaelrihani-server.cloud
+    ServerName mikhaelrihani-server.eddi.cloud
     
-    DocumentRoot /var/www/symfo-oflix-journee-19-mikhaelrihani/public
+    DocumentRoot /var/www/html/symfo-oflix-journee-19-mikhaelrihani/public
     
     ErrorLog /var/log/apache2/project_error.log
     CustomLog /var/log/apache2/project_access.log combined
     
-    <Directory /var/www/symfo-oflix-journee-19-mikhaelrihani/public>     
+    <Directory /var/www/htmlsymfo-oflix-journee-19-mikhaelrihani/public>     
                 Options indexes
                 AllowOverride all
                 Allow from all
@@ -108,9 +108,10 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTQwMjY5MywtMTc5MDc0MjgwMSwtND
-AwNTI0OTgxLDE3NjM5OTA5NDIsLTEwMjcxOTIxMzgsLTgwODIz
-MDYyOSwtODUxNzA0Nzg1LDE0NzY1Mjc4ODQsLTE3MzcxMTIxOT
-AsLTExNzM2NTA1ODAsLTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwt
-MTM3MDg4NDgxMywtMjA4NjgwODM3MiwyMTI1MzUyNDQxXX0=
+eyJoaXN0b3J5IjpbMTQyNzkyMzgxOCwtMjM1NDAyNjkzLC0xNz
+kwNzQyODAxLC00MDA1MjQ5ODEsMTc2Mzk5MDk0MiwtMTAyNzE5
+MjEzOCwtODA4MjMwNjI5LC04NTE3MDQ3ODUsMTQ3NjUyNzg4NC
+wtMTczNzExMjE5MCwtMTE3MzY1MDU4MCwtMTQ5MjgzNjE1Mywt
+NjQ2Mzc5NDEwLC0xMzcwODg0ODEzLC0yMDg2ODA4MzcyLDIxMj
+UzNTI0NDFdfQ==
 -->
