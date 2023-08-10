@@ -19,6 +19,8 @@ https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewri
 
 https://symfony.com/doc/current/setup/file_permissions.html#configuring-permissions-for-symfony-applications
 
+https://doc.ubuntu-fr.org/acl
+
  ### général
 1 - se connecter a notre vm server par le terminal: ssh    student@mikhaelrihani-server.eddi.cloud
 2- aller dans le dossier cd /var/www/html 
@@ -57,14 +59,14 @@ https://symfony.com/doc/current/setup/file_permissions.html#configuring-permissi
 
 ### ACL linux
 
-1-
+1- 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzNjQzMDczLC0xMTczNjUwNTgwLC0xND
-kyODM2MTUzLC02NDYzNzk0MTAsLTEzNzA4ODQ4MTMsLTIwODY4
-MDgzNzIsMjEyNTM1MjQ0MV19
+eyJoaXN0b3J5IjpbLTEzNjM4NDkxMzUsLTExNzM2NTA1ODAsLT
+E0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4NDgxMywtMjA4
+NjgwODM3MiwyMTI1MzUyNDQxXX0=
 -->
