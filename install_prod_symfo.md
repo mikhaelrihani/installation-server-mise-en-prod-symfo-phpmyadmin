@@ -70,6 +70,7 @@ https://doc.ubuntu-fr.org/acl
 depuis la racine de la machine :
 ->cd `/etc/apache2/sites-available`
 ->sudo nano site.con
+->entrez ce bout ce code et finir par ctrl x, y,entree
 
 <VirtualHost *:80>
 
@@ -98,7 +99,7 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzM2NTYzMSwtMTAyNzE5MjEzOCwtOD
+eyJoaXN0b3J5IjpbMTc2Mzk5MDk0MiwtMTAyNzE5MjEzOCwtOD
 A4MjMwNjI5LC04NTE3MDQ3ODUsMTQ3NjUyNzg4NCwtMTczNzEx
 MjE5MCwtMTE3MzY1MDU4MCwtMTQ5MjgzNjE1MywtNjQ2Mzc5ND
 EwLC0xMzcwODg0ODEzLC0yMDg2ODA4MzcyLDIxMjUzNTI0NDFd
