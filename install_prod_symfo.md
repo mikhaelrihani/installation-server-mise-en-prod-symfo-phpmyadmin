@@ -17,6 +17,8 @@ https://symfony.com/doc/5.4/deployment.html
 
 https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewrite-rules-for-apache
 
+https://symfony.com/doc/current/setup/file_permissions.html#configuring-permissions-for-symfony-applications
+
  ### général
 1 - se connecter a notre vm server par le terminal: ssh    student@mikhaelrihani-server.eddi.cloud
 2- aller dans le dossier cd /var/www/html 
@@ -53,12 +55,16 @@ https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewri
 ->cat .htaccess
 3-
 
+### ACL linux
+
+1-
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM2NTA1ODAsLTE0OTI4MzYxNTMsLT
-Y0NjM3OTQxMCwtMTM3MDg4NDgxMywtMjA4NjgwODM3MiwyMTI1
-MzUyNDQxXX0=
+eyJoaXN0b3J5IjpbNzUzNjQzMDczLC0xMTczNjUwNTgwLC0xND
+kyODM2MTUzLC02NDYzNzk0MTAsLTEzNzA4ODQ4MTMsLTIwODY4
+MDgzNzIsMjEyNTM1MjQ0MV19
 -->
