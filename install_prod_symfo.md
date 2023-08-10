@@ -107,7 +107,7 @@ depuis la racine de la machine :
 - premiere question ->entrer yes
 - sélectionner apache2 et bien mettre * avec la barre d'espace
 - configure database -> entrer non
-- 
+
 
 
 
@@ -117,10 +117,10 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI3NDA3ODAsLTIyNTM5Nzg4MSwtMT
-gxMDkzNjcwOSwtMjM1NDAyNjkzLC0xNzkwNzQyODAxLC00MDA1
-MjQ5ODEsMTc2Mzk5MDk0MiwtMTAyNzE5MjEzOCwtODA4MjMwNj
-I5LC04NTE3MDQ3ODUsMTQ3NjUyNzg4NCwtMTczNzExMjE5MCwt
-MTE3MzY1MDU4MCwtMTQ5MjgzNjE1MywtNjQ2Mzc5NDEwLC0xMz
-cwODg0ODEzLC0yMDg2ODA4MzcyLDIxMjUzNTI0NDFdfQ==
+eyJoaXN0b3J5IjpbMTA1ODI2MTMxOSwtMjI1Mzk3ODgxLC0xOD
+EwOTM2NzA5LC0yMzU0MDI2OTMsLTE3OTA3NDI4MDEsLTQwMDUy
+NDk4MSwxNzYzOTkwOTQyLC0xMDI3MTkyMTM4LC04MDgyMzA2Mj
+ksLTg1MTcwNDc4NSwxNDc2NTI3ODg0LC0xNzM3MTEyMTkwLC0x
+MTczNjUwNTgwLC0xNDkyODM2MTUzLC02NDYzNzk0MTAsLTEzNz
+A4ODQ4MTMsLTIwODY4MDgzNzIsMjEyNTM1MjQ0MV19
 -->
