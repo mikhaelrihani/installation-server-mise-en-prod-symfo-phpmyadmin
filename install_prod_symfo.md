@@ -106,6 +106,7 @@ depuis le terminal :
 - cat error.log
 
 depuis vscode c 'est mieux indenté,il existe des extensions pour etre plus clair
+
 ## phpmyadmin
 
 - sudo apt install phpmyadmin
@@ -127,11 +128,11 @@ depuis vscode c 'est mieux indenté,il existe des extensions pour etre plus clai
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM2MjExOTgsLTE2OTU1MTY5MTAsLT
-E1ODA3ODA1MjcsLTIyNTM5Nzg4MSwtMTgxMDkzNjcwOSwtMjM1
-NDAyNjkzLC0xNzkwNzQyODAxLC00MDA1MjQ5ODEsMTc2Mzk5MD
-k0MiwtMTAyNzE5MjEzOCwtODA4MjMwNjI5LC04NTE3MDQ3ODUs
-MTQ3NjUyNzg4NCwtMTczNzExMjE5MCwtMTE3MzY1MDU4MCwtMT
-Q5MjgzNjE1MywtNjQ2Mzc5NDEwLC0xMzcwODg0ODEzLC0yMDg2
-ODA4MzcyLDIxMjUzNTI0NDFdfQ==
+eyJoaXN0b3J5IjpbLTUyNDg0NTY5MiwtMTY5NTUxNjkxMCwtMT
+U4MDc4MDUyNywtMjI1Mzk3ODgxLC0xODEwOTM2NzA5LC0yMzU0
+MDI2OTMsLTE3OTA3NDI4MDEsLTQwMDUyNDk4MSwxNzYzOTkwOT
+QyLC0xMDI3MTkyMTM4LC04MDgyMzA2MjksLTg1MTcwNDc4NSwx
+NDc2NTI3ODg0LC0xNzM3MTEyMTkwLC0xMTczNjUwNTgwLC0xND
+kyODM2MTUzLC02NDYzNzk0MTAsLTEzNzA4ODQ4MTMsLTIwODY4
+MDgzNzIsMjEyNTM1MjQ0MV19
 -->
