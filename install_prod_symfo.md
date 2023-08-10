@@ -32,7 +32,5 @@
 1- APP_ENV=prod APP_DEBUG=0 php bin/console cache: clear
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTM1MjQ0MSwxNzMwMDc3MTIwLDIwMj
-Q0NDg5OCwxMjkxNDI3MDUzLDcwMDY0NDY2OCwxMzE4Mzg2Njkz
-XX0=
+eyJoaXN0b3J5IjpbMjEyNTM1MjQ0MV19
 -->
