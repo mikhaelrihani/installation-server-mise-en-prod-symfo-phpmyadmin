@@ -48,6 +48,7 @@ https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewri
 
 ### apache
 1-composer update  --optimize-autoloader --no-dev 
+2- ver
 2-composer require symphony/apache-pack--no-update
 2-
 
@@ -56,6 +57,6 @@ https://symfony.com/doc/current/setup/web_server_configuration.html#adding-rewri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjM3OTQxMCwtMTM3MDg4NDgxMywtMj
-A4NjgwODM3MiwyMTI1MzUyNDQxXX0=
+eyJoaXN0b3J5IjpbMTU2MzgyOTc5MCwtNjQ2Mzc5NDEwLC0xMz
+cwODg0ODEzLC0yMDg2ODA4MzcyLDIxMjUzNTI0NDFdfQ==
 -->
