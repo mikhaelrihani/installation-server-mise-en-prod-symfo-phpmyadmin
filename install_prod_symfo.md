@@ -93,7 +93,7 @@ depuis la racine de la machine :
     RewriteEngine on
      </VirtualHost>
 ->activer virtual host:
-->  `sudo a2ensite site.conf`
+-  `sudo a2ensite site.conf`
 -> sudo a2dissite 000-default.conf
 ->`sudo systemctl restart apache2`
 
@@ -109,10 +109,10 @@ depuis la racine de la machine :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA5MzY3MDksLTIzNTQwMjY5MywtMT
-c5MDc0MjgwMSwtNDAwNTI0OTgxLDE3NjM5OTA5NDIsLTEwMjcx
-OTIxMzgsLTgwODIzMDYyOSwtODUxNzA0Nzg1LDE0NzY1Mjc4OD
-QsLTE3MzcxMTIxOTAsLTExNzM2NTA1ODAsLTE0OTI4MzYxNTMs
-LTY0NjM3OTQxMCwtMTM3MDg4NDgxMywtMjA4NjgwODM3MiwyMT
-I1MzUyNDQxXX0=
+eyJoaXN0b3J5IjpbLTEyODI4MTExOTMsLTE4MTA5MzY3MDksLT
+IzNTQwMjY5MywtMTc5MDc0MjgwMSwtNDAwNTI0OTgxLDE3NjM5
+OTA5NDIsLTEwMjcxOTIxMzgsLTgwODIzMDYyOSwtODUxNzA0Nz
+g1LDE0NzY1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNzM2NTA1ODAs
+LTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4NDgxMywtMj
+A4NjgwODM3MiwyMTI1MzUyNDQxXX0=
 -->
