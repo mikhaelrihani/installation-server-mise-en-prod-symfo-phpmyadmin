@@ -1,7 +1,7 @@
 
 ## mise en prod projet symfo + phpmyadmin
 
-> Written by [mika](https://github.com/mikhaelrihani/).
+> Written by [mika](https://github.com/mikhaelrihani/)
 ### Gestion Serveur cloud
 - https://kourou.oclock.io/ressources/vm-cloud/
  -   **Nom de la machine :**  mikhaelrihani-server.cloud
@@ -135,11 +135,11 @@ depuis vscode c 'est mieux indenté,il existe des extensions pour etre plus clai
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjc2ODMwMiwtNTI0ODQ1NjkyLC0xNj
-k1NTE2OTEwLC0xNTgwNzgwNTI3LC0yMjUzOTc4ODEsLTE4MTA5
-MzY3MDksLTIzNTQwMjY5MywtMTc5MDc0MjgwMSwtNDAwNTI0OT
-gxLDE3NjM5OTA5NDIsLTEwMjcxOTIxMzgsLTgwODIzMDYyOSwt
-ODUxNzA0Nzg1LDE0NzY1Mjc4ODQsLTE3MzcxMTIxOTAsLTExNz
-M2NTA1ODAsLTE0OTI4MzYxNTMsLTY0NjM3OTQxMCwtMTM3MDg4
-NDgxMywtMjA4NjgwODM3Ml19
+eyJoaXN0b3J5IjpbLTE3MjQwNTkzMDgsLTczNjc2ODMwMiwtNT
+I0ODQ1NjkyLC0xNjk1NTE2OTEwLC0xNTgwNzgwNTI3LC0yMjUz
+OTc4ODEsLTE4MTA5MzY3MDksLTIzNTQwMjY5MywtMTc5MDc0Mj
+gwMSwtNDAwNTI0OTgxLDE3NjM5OTA5NDIsLTEwMjcxOTIxMzgs
+LTgwODIzMDYyOSwtODUxNzA0Nzg1LDE0NzY1Mjc4ODQsLTE3Mz
+cxMTIxOTAsLTExNzM2NTA1ODAsLTE0OTI4MzYxNTMsLTY0NjM3
+OTQxMCwtMTM3MDg4NDgxM119
 -->
