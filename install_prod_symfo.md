@@ -109,6 +109,9 @@ depuis le terminal :
 
 depuis vscode c 'est mieux indenté,il existe des extensions pour etre plus clair
 
+### mise en prod de twig
+php bin/console cache:clear
+
 ## phpmyadmin
 
 - sudo apt install phpmyadmin
@@ -135,11 +138,11 @@ depuis vscode c 'est mieux indenté,il existe des extensions pour etre plus clai
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQwNTkzMDgsLTczNjc2ODMwMiwtNT
-I0ODQ1NjkyLC0xNjk1NTE2OTEwLC0xNTgwNzgwNTI3LC0yMjUz
-OTc4ODEsLTE4MTA5MzY3MDksLTIzNTQwMjY5MywtMTc5MDc0Mj
-gwMSwtNDAwNTI0OTgxLDE3NjM5OTA5NDIsLTEwMjcxOTIxMzgs
-LTgwODIzMDYyOSwtODUxNzA0Nzg1LDE0NzY1Mjc4ODQsLTE3Mz
-cxMTIxOTAsLTExNzM2NTA1ODAsLTE0OTI4MzYxNTMsLTY0NjM3
-OTQxMCwtMTM3MDg4NDgxM119
+eyJoaXN0b3J5IjpbLTM0MjUwNDg1NywtMTcyNDA1OTMwOCwtNz
+M2NzY4MzAyLC01MjQ4NDU2OTIsLTE2OTU1MTY5MTAsLTE1ODA3
+ODA1MjcsLTIyNTM5Nzg4MSwtMTgxMDkzNjcwOSwtMjM1NDAyNj
+kzLC0xNzkwNzQyODAxLC00MDA1MjQ5ODEsMTc2Mzk5MDk0Miwt
+MTAyNzE5MjEzOCwtODA4MjMwNjI5LC04NTE3MDQ3ODUsMTQ3Nj
+UyNzg4NCwtMTczNzExMjE5MCwtMTE3MzY1MDU4MCwtMTQ5Mjgz
+NjE1MywtNjQ2Mzc5NDEwXX0=
 -->
