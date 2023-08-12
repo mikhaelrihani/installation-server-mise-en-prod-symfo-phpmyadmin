@@ -54,7 +54,7 @@ https://github.com/O-Clock-Vega/S08-script-serveur
   
 ### Clear  Symfony Cache
 
-- APP_ENV=prod APP_DEBUG=0 php bin/console cache: clear
+- APP_ENV=prod APP_DEBUG=0 php bin/console cache:clear
 
 ### apache
 - composer update  --optimize-autoloader --no-dev 
@@ -138,11 +138,11 @@ php bin/console cache:clear
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzczODY2NywtMzQyNTA0ODU3LC0xNz
-I0MDU5MzA4LC03MzY3NjgzMDIsLTUyNDg0NTY5MiwtMTY5NTUx
-NjkxMCwtMTU4MDc4MDUyNywtMjI1Mzk3ODgxLC0xODEwOTM2Nz
-A5LC0yMzU0MDI2OTMsLTE3OTA3NDI4MDEsLTQwMDUyNDk4MSwx
-NzYzOTkwOTQyLC0xMDI3MTkyMTM4LC04MDgyMzA2MjksLTg1MT
-cwNDc4NSwxNDc2NTI3ODg0LC0xNzM3MTEyMTkwLC0xMTczNjUw
-NTgwLC0xNDkyODM2MTUzXX0=
+eyJoaXN0b3J5IjpbLTM1MDUxNjE1MSwtOTgzNzM4NjY3LC0zND
+I1MDQ4NTcsLTE3MjQwNTkzMDgsLTczNjc2ODMwMiwtNTI0ODQ1
+NjkyLC0xNjk1NTE2OTEwLC0xNTgwNzgwNTI3LC0yMjUzOTc4OD
+EsLTE4MTA5MzY3MDksLTIzNTQwMjY5MywtMTc5MDc0MjgwMSwt
+NDAwNTI0OTgxLDE3NjM5OTA5NDIsLTEwMjcxOTIxMzgsLTgwOD
+IzMDYyOSwtODUxNzA0Nzg1LDE0NzY1Mjc4ODQsLTE3MzcxMTIx
+OTAsLTExNzM2NTA1ODBdfQ==
 -->
