@@ -67,8 +67,8 @@ https://github.com/O-Clock-Vega/S08-script-serveur
 -> depuis le projet :
 - sudo apt-get install -y acl
 - HTTPDUSER=$(ps axo user,comm | grep -E '[a]pache|[h]ttpd|[_]www|[w]ww-data|[n]ginx' | grep -v root | head -1 | cut -d\  -f1)
-- sudo setfacl -dR -m u:"$$HTTPDUSER":rwX -m u:$(whoami):rwX var
-- sudo setfacl -R -m u:"$$HTTPDUSER":rwX -m u:$(whoami):rwX var
+- sudo setfacl -dR -m u:"$HTTPDUSER":rwX -m u:$(whoami):rwX var
+- sudo setfacl -R -m u:"$HTTPDUSER":rwX -m u:$(whoami):rwX var
 ->verifier avec un ll que le dossier var a bien les droits  avec un +
 
 ### virtual_host
@@ -138,11 +138,11 @@ php bin/console cache:clear
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjUwNDg1NywtMTcyNDA1OTMwOCwtNz
-M2NzY4MzAyLC01MjQ4NDU2OTIsLTE2OTU1MTY5MTAsLTE1ODA3
-ODA1MjcsLTIyNTM5Nzg4MSwtMTgxMDkzNjcwOSwtMjM1NDAyNj
-kzLC0xNzkwNzQyODAxLC00MDA1MjQ5ODEsMTc2Mzk5MDk0Miwt
-MTAyNzE5MjEzOCwtODA4MjMwNjI5LC04NTE3MDQ3ODUsMTQ3Nj
-UyNzg4NCwtMTczNzExMjE5MCwtMTE3MzY1MDU4MCwtMTQ5Mjgz
-NjE1MywtNjQ2Mzc5NDEwXX0=
+eyJoaXN0b3J5IjpbLTk4MzczODY2NywtMzQyNTA0ODU3LC0xNz
+I0MDU5MzA4LC03MzY3NjgzMDIsLTUyNDg0NTY5MiwtMTY5NTUx
+NjkxMCwtMTU4MDc4MDUyNywtMjI1Mzk3ODgxLC0xODEwOTM2Nz
+A5LC0yMzU0MDI2OTMsLTE3OTA3NDI4MDEsLTQwMDUyNDk4MSwx
+NzYzOTkwOTQyLC0xMDI3MTkyMTM4LC04MDgyMzA2MjksLTg1MT
+cwNDc4NSwxNDc2NTI3ODg0LC0xNzM3MTEyMTkwLC0xMTczNjUw
+NTgwLC0xNDkyODM2MTUzXX0=
 -->
