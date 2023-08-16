@@ -1,15 +1,9 @@
  
-|Champ  | Type | Spécificités |Description  |
-|--|--|
-|  |  |
-
-Champ
-
-Type
+|Champ  | Type | Spécificités |Description |
+|id_user  |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT |  |
+|  |  |  |  |
 
 
-
-code_personne
 
 INT
 
@@ -49,5 +43,5 @@ NOT NULL, DEFAULT CURRENT_TIMESTAMP
 
 La date de dernière modification
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE5MjUxNDQsLTgzMjU1NzIwNV19
+eyJoaXN0b3J5IjpbNDAyNzM4Mjc4LC04MzI1NTcyMDVdfQ==
 -->
