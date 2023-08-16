@@ -2,7 +2,9 @@
 
 |Champ  | Type | Spécificités |Description |
 
-|id_user |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| L’identifiant de l'utilisateur|
+| id_user | INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT|   
+
+ L’identifiant de l'utilisateur|
 | username | VARCHAR(64) | NOT NULL | pseudo de l'utilisateur |
 | password |VARCHAR(64)  |NOT NULL  | mot de passe de l'utilisateur |
 | email |VARCHAR(240)  |NOT NULL  | email de l'utilisateur |
@@ -39,7 +41,7 @@
 |user_id| ENTITY| PRIMARY KEY,NOT NULL| L’identifiant de l'utilisateur|
 |garden_id| ENTITYPRIMARY KEY| NOT NULL| L’identifiant du jardin|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4NzE4NjkyLC0xMjc5NDA5MzQzLDY0Nz
-YwMzkyLDIxMjE5NTA3ODgsLTEzMzMxNTY4MDAsLTUzNzI2NzY0
-NSwxMDU4NTA3ODY2LC04MzI1NTcyMDVdfQ==
+eyJoaXN0b3J5IjpbMTQ1ODI0MTIwLDcwODcxODY5MiwtMTI3OT
+QwOTM0Myw2NDc2MDM5MiwyMTIxOTUwNzg4LC0xMzMzMTU2ODAw
+LC01MzcyNjc2NDUsMTA1ODUwNzg2NiwtODMyNTU3MjA1XX0=
 -->
