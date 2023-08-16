@@ -23,15 +23,15 @@
 | code postal| INT  |NOT NULL  | code postal du jardin |
 | ville  |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | role de l'utilisateur  |
 | point d'eau | VARCHAR(128) | NULL,DEFAULT AVATAR | point d'eau du jardin|
-|outils | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | outils disponin´bledu jardin |
+|outils | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | outils disponible sur le jardin |
 | abri de jardin| INT  |NOT NULL  | abri de jardin  |
-| photos |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | role de l'utilisateur  |
-| etat du jardin | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
+| photos |VARCHAR(64)  |DEFAULT USER  | photos du jardin  |
+| état du jardin | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
 |surface| TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
 | utilisation telephone | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
 
 |crée le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
  |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification de user |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE2NDk4MTMsLTgzMjU1NzIwNV19
+eyJoaXN0b3J5IjpbMTA1ODUwNzg2NiwtODMyNTU3MjA1XX0=
 -->
