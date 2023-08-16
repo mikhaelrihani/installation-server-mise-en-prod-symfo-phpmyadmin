@@ -1,6 +1,6 @@
  ### Table user
 
-|Champ  | Type | Spécificités |Description |
+| Champ  | Type | Spécificités |Description |
 
 | id_user | INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| L’identifiant de l'utilisateur |
 | username | VARCHAR(64) | NOT NULL | pseudo de l'utilisateur |
@@ -39,7 +39,7 @@
 |user_id| ENTITY| PRIMARY KEY,NOT NULL| L’identifiant de l'utilisateur|
 |garden_id| ENTITYPRIMARY KEY| NOT NULL| L’identifiant du jardin|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTkzODQwNiw3MDg3MTg2OTIsLTEyNz
+eyJoaXN0b3J5IjpbMTYzODI3NjIzOCw3MDg3MTg2OTIsLTEyNz
 k0MDkzNDMsNjQ3NjAzOTIsMjEyMTk1MDc4OCwtMTMzMzE1Njgw
 MCwtNTM3MjY3NjQ1LDEwNTg1MDc4NjYsLTgzMjU1NzIwNV19
 -->
