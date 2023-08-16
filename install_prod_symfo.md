@@ -24,14 +24,14 @@
 | ville  |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | role de l'utilisateur  |
 | point d'eau | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
 |outils | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
-| code postal|INT  |NOT NULL  | te de l'utilisateur |
-| ville  |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | role de l'utilisateur  |
-| point d'eau | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
-|outils | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
-
+| abri de jardin|INT  |NOT NULL  | te de l'utilisateur |
+| photos |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | role de l'utilisateur  |
+| etat du jardin | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
+|surface| TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
+| etat du jardin | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
 
 |crée le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
  |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification de user |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjQ0MjEyMiwtODMyNTU3MjA1XX0=
+eyJoaXN0b3J5IjpbMTAxNTAzMjg1MywtODMyNTU3MjA1XX0=
 -->
