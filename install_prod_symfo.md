@@ -25,9 +25,9 @@
 | point d'eau | BOOL | NOT NULL,DEFAULT NO | point d'eau du jardin|
 |outils | VARCHAR(240) |  NULL| liste des outils disponible sur le jardin |
 | abri de jardin| BOOL | NOT NULL,DEFAULT NO | presence abri de jardin  |
-| photos |VARCHAR(64)  |  | photos du jardin  |
+| photos |LIST_ENUM |NULL  | photos du jardin  |
 | état du jardin | VARCHAR(128) | NULL,DEFAULT AVATAR | état du jardin |
-|surface| INT | NOT NULL | Surface disponible du jardin |
+|surface| LIST_ENUM | NOT NULL | Surface disponible du jardin |
 | utilisation telephone | BOOL | NOT NULL,DEFAULT NO | avatar  de l'utilisateur |
 |crée le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
 |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification du jardin |
@@ -39,7 +39,7 @@
 |USER_ID| ENTITY| PRIMARY KEY,NOT NULL| L’identifiant de l'utilisateur
 |Jardin_ID| ENTITYPRIMARY KEY| NOT NULL| L’identifiant du jardin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk0MDkzNDMsNjQ3NjAzOTIsMjEyMT
-k1MDc4OCwtMTMzMzE1NjgwMCwtNTM3MjY3NjQ1LDEwNTg1MDc4
-NjYsLTgzMjU1NzIwNV19
+eyJoaXN0b3J5IjpbLTkyMTg4MTg3NSwtMTI3OTQwOTM0Myw2ND
+c2MDM5MiwyMTIxOTUwNzg4LC0xMzMzMTU2ODAwLC01MzcyNjc2
+NDUsMTA1ODUwNzg2NiwtODMyNTU3MjA1XX0=
 -->
