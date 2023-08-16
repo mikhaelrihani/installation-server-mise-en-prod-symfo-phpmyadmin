@@ -8,8 +8,8 @@
 | tel |  |  |  |
 | role |  |  |  |
 | avatar |  |  |  |
-|cree_le |  |  |  |
- |avatar |  |  |  |
+|cree_le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
+ |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification de user |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3OTUzODg5LC04MzI1NTcyMDVdfQ==
+eyJoaXN0b3J5IjpbMjMwMDIzMzY2LC04MzI1NTcyMDVdfQ==
 -->
