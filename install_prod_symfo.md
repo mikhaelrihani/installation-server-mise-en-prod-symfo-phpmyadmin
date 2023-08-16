@@ -22,8 +22,8 @@
 | adresse |VARCHAR(240)  |NOT NULL  | location du jardin |
 | code postal| INT  |NOT NULL  | code postal du jardin |
 | ville  |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | code postal du jardin  |
-| point d'eau | VARCHAR(128) | NULL,DEFAULT AVATAR | point d'eau du jardin|
-|outils | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | outils disponible sur le jardin |
+| point d'eau | BOOL | NOT NULL,DEFAULT NO | point d'eau du jardin|
+|outils | VARCHAR(240) | NOT NULL| liste des outils disponible sur le jardin |
 | abri de jardin| INT  |NOT NULL  | abri de jardin  |
 | photos |VARCHAR(64)  |DEFAULT USER  | photos du jardin  |
 | état du jardin | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
@@ -33,6 +33,6 @@
 |crée le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
  |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification de user |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTcwMDU3LC01MzcyNjc2NDUsMTA1OD
-UwNzg2NiwtODMyNTU3MjA1XX0=
+eyJoaXN0b3J5IjpbLTU2MDU5MTg5OSwtNTM3MjY3NjQ1LDEwNT
+g1MDc4NjYsLTgzMjU1NzIwNV19
 -->
