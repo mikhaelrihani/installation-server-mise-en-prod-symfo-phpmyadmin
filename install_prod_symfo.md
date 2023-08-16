@@ -16,8 +16,8 @@
 
 |Champ  | Type | Spécificités |Description |
 
-|id_jardin |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| L’identifiant de l'utilisateur
-| title | VARCHAR(64) | NOT NULL | pseudo de l'utilisateur |
+|id_jardin |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| L’identifiant du jardin
+| title | VARCHAR(64) | NOT NULL | titre du jardin |
 | texte |VARCHAR(64)  |NOT NULL  | mot de passe de l'utilisateur |
 | adresse |VARCHAR(240)  |NOT NULL  | email de l'utilisateur |
 | code postal|INT  |NOT NULL  | te de l'utilisateur |
@@ -28,10 +28,10 @@
 | photos |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | role de l'utilisateur  |
 | etat du jardin | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
 |surface| TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
-| etat du jardin | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
+| utilisation telephone | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
 
 |crée le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
  |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification de user |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTAzMjg1MywtODMyNTU3MjA1XX0=
+eyJoaXN0b3J5IjpbLTY5MzI4MzY5LC04MzI1NTcyMDVdfQ==
 -->
