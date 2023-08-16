@@ -6,10 +6,10 @@
 | password |VARCHAR(64)  |NOT NULL  | mot de passe de l'utilisateur |
 | email |VARCHAR(240)  |NOT NULL  | email de l'utilisateur |
 | tel |INT  |NOT NULL  | te de l'utilisateur |
-| role |VARCHAR(64)  |  |  |
+| role |VARCHAR(64)  |NOT NULL   |  |
 | avatar | VARCHAR(128) |  |  |
 |cree_le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
  |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification de user |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTkxNTM2MiwtODMyNTU3MjA1XX0=
+eyJoaXN0b3J5IjpbLTk5NDg0NDY0MCwtODMyNTU3MjA1XX0=
 -->
