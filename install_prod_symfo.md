@@ -36,7 +36,9 @@
  ### Table PIVOT FAVORIS
 
 |Champ  | Type | Spécificités |Description |
+|USER_ID| ENTITYPRIMARY KEY| NOT NULL|L’identifiant du livre
+code_genreENTITYPRIMARY KEY, UNSIGNED, NOT NULLL’identifiant du genre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjc4MzcyNywtMTMzMzE1NjgwMCwtNT
-M3MjY3NjQ1LDEwNTg1MDc4NjYsLTgzMjU1NzIwNV19
+eyJoaXN0b3J5IjpbMjUwMzI1NTUxLC0xMzMzMTU2ODAwLC01Mz
+cyNjc2NDUsMTA1ODUwNzg2NiwtODMyNTU3MjA1XX0=
 -->
