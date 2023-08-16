@@ -32,7 +32,11 @@
 |crée le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
 |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification du jardin |
 |user_id| INT| FOREIGN KEY,NOT NULL | référence id propriétaire du jardin |
+
+ ### Table PIVOT FAVORIS
+
+|Champ  | Type | Spécificités |Description |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzMwODIxNCwtMTMzMzE1NjgwMCwtNT
+eyJoaXN0b3J5IjpbLTkxMjc4MzcyNywtMTMzMzE1NjgwMCwtNT
 M3MjY3NjQ1LDEwNTg1MDc4NjYsLTgzMjU1NzIwNV19
 -->
