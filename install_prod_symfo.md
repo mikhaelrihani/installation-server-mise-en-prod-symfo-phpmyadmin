@@ -20,11 +20,18 @@
 | title | VARCHAR(64) | NOT NULL | pseudo de l'utilisateur |
 | texte |VARCHAR(64)  |NOT NULL  | mot de passe de l'utilisateur |
 | adresse |VARCHAR(240)  |NOT NULL  | email de l'utilisateur |
-| |INT  |NOT NULL  | te de l'utilisateur |
-| role |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | role de l'utilisateur  |
-| avatar | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
+| code postal|INT  |NOT NULL  | te de l'utilisateur |
+| ville  |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | role de l'utilisateur  |
+| point d'eau | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
+|outils | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
+| code postal|INT  |NOT NULL  | te de l'utilisateur |
+| ville  |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | role de l'utilisateur  |
+| point d'eau | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
+|outils | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
+
+
 |crée le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
  |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification de user |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3NDgzODkxLC04MzI1NTcyMDVdfQ==
+eyJoaXN0b3J5IjpbMTYxMjQ0MjEyMiwtODMyNTU3MjA1XX0=
 -->
