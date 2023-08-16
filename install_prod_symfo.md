@@ -6,9 +6,10 @@
 | password |  |  |  |
 | email |  |  |  |
 | tel |  |  |  |
-| tel |  |  |  |
-| tel |  |  |  |
-
+| role |  |  |  |
+| avatar |  |  |  |
+|cree_le |  |  |  |
+ |avatar |  |  |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTA2OTkzOCwtODMyNTU3MjA1XX0=
+eyJoaXN0b3J5IjpbNjQ3OTUzODg5LC04MzI1NTcyMDVdfQ==
 -->
