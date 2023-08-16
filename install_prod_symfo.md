@@ -31,7 +31,8 @@
 | utilisation telephone | BOOL | NOT NULL,DEFAULT NO | avatar  de l'utilisateur |
 |crée le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
 |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification du jardin |
+|user_id|INT|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc4Njk4NjYsLTEzMzMxNTY4MDAsLT
-UzNzI2NzY0NSwxMDU4NTA3ODY2LC04MzI1NTcyMDVdfQ==
+eyJoaXN0b3J5IjpbMzYyNzIzMzg2LC0xMzMzMTU2ODAwLC01Mz
+cyNjc2NDUsMTA1ODUwNzg2NiwtODMyNTU3MjA1XX0=
 -->
