@@ -27,12 +27,11 @@
 | abri de jardin| BOOL | NOT NULL,DEFAULT NO | presence abri de jardin  |
 | photos |VARCHAR(64)  |  | photos du jardin  |
 | état du jardin | VARCHAR(128) | NULL,DEFAULT AVATAR | état du jardin |
-|surface| TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | Surface disponible du  |
-| utilisation telephone | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
-
+|surface| INT | NOT NULL | Surface disponible du jardin |
+| utilisation telephone | BOOL | NOT NULL,DEFAULT NO | avatar  de l'utilisateur |
 |crée le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
- |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification de user |
+|mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification du jardin |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE1NTQwNzUsLTEzMzMxNTY4MDAsLT
+eyJoaXN0b3J5IjpbLTIwOTc4Njk4NjYsLTEzMzMxNTY4MDAsLT
 UzNzI2NzY0NSwxMDU4NTA3ODY2LC04MzI1NTcyMDVdfQ==
 -->
