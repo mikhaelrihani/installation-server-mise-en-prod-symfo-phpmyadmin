@@ -2,14 +2,14 @@
 |Champ  | Type | Spécificités |Description |
 |id_user  |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| L’identifiant de l'utilisateur
 
-| username | VARCHAR(64) | NOT NULL |  |
-| password |VARCHAR(64)  |NOT NULL  |  |
-| email |VARCHAR(240)  |  |  |
-| tel |INT  |  |  |
+| username | VARCHAR(64) | NOT NULL | pseudo de l'utilisateur |
+| password |VARCHAR(64)  |NOT NULL  | mot de passe de l'utilisateur |
+| email |VARCHAR(240)  |NOT NULL  | email de l'utilisateur |
+| tel |INT  |NOT NULL  | te de l'utilisateur |
 | role |VARCHAR(64)  |  |  |
 | avatar | VARCHAR(128) |  |  |
 |cree_le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
  |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification de user |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwMjI0NTA2LC04MzI1NTcyMDVdfQ==
+eyJoaXN0b3J5IjpbLTk2NTkxNTM2MiwtODMyNTU3MjA1XX0=
 -->
