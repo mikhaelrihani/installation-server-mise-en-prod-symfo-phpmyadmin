@@ -2,7 +2,7 @@
 
 |Champ  | Type | Spécificités |Description |
 
-|id_user  |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| L’identifiant de l'utilisateur
+|id |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| L’identifiant de l'utilisateur
 | username | VARCHAR(64) | NOT NULL | pseudo de l'utilisateur |
 | password |VARCHAR(64)  |NOT NULL  | mot de passe de l'utilisateur |
 | email |VARCHAR(240)  |NOT NULL  | email de l'utilisateur |
@@ -16,7 +16,7 @@
 
 |Champ  | Type | Spécificités |Description |
 
-|id_jardin |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| L’identifiant du jardin
+|id |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| L’identifiant du jardin
 | title | VARCHAR(64) | NOT NULL | titre du jardin |
 | texte |VARCHAR(500)  |NOT NULL  | description du jardin|
 | adresse |VARCHAR(240)  |NOT NULL  | location du jardin |
@@ -39,7 +39,7 @@
 |USER_ID| ENTITY| PRIMARY KEY,NOT NULL| L’identifiant de l'utilisateur
 |Jardin_ID| ENTITYPRIMARY KEY| NOT NULL| L’identifiant du jardin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3NjAzOTIsMjEyMTk1MDc4OCwtMTMzMz
-E1NjgwMCwtNTM3MjY3NjQ1LDEwNTg1MDc4NjYsLTgzMjU1NzIw
-NV19
+eyJoaXN0b3J5IjpbLTEyNzk0MDkzNDMsNjQ3NjAzOTIsMjEyMT
+k1MDc4OCwtMTMzMzE1NjgwMCwtNTM3MjY3NjQ1LDEwNTg1MDc4
+NjYsLTgzMjU1NzIwNV19
 -->
