@@ -36,9 +36,10 @@
  ### Table PIVOT FAVORIS ou jardin_user
 
 |Champ  | Type | Spécificités |Description |
-|USER_ID| ENTITYPRIMARY KEY| NOT NULL| L’identifiant de l'utilisateur
+|USER_ID| ENTITY| PRIMARY KEY,NOT NULL| L’identifiant de l'utilisateur
 |Jardin_ID| ENTITYPRIMARY KEY| NOT NULL| L’identifiant du jardin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTk1MDc4OCwtMTMzMzE1NjgwMCwtNT
-M3MjY3NjQ1LDEwNTg1MDc4NjYsLTgzMjU1NzIwNV19
+eyJoaXN0b3J5IjpbNjQ3NjAzOTIsMjEyMTk1MDc4OCwtMTMzMz
+E1NjgwMCwtNTM3MjY3NjQ1LDEwNTg1MDc4NjYsLTgzMjU1NzIw
+NV19
 -->
