@@ -28,7 +28,7 @@
 | picture |LIST_ENUM |NULL  | photos du jardin  |
 | state | VARCHAR(128) | NULL,DEFAULT AVATAR | état du jardin |
 |surface| LIST_ENUM | NOT NULL | Surface disponible du jardin |
-| utilisation telephone | BOOL | NOT NULL,DEFAULT NO | avatar  de l'utilisateur |
+| agreement | BOOL | NOT NULL,DEFAULT NO | droits usage du telephone de l'utilisateur |
 |created_at | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
  |updated_at |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification du jardin |
 |user_id| INT| FOREIGN KEY,NOT NULL | référence id propriétaire du jardin |
@@ -36,10 +36,10 @@
  ### Table PIVOT FAVORIS ou jardin_user
 
 |Champ  | Type | Spécificités |Description |
-|USER_ID| ENTITY| PRIMARY KEY,NOT NULL| L’identifiant de l'utilisateur
-|Jardin_ID| ENTITYPRIMARY KEY| NOT NULL| L’identifiant du jardin
+|user_ID| ENTITY| PRIMARY KEY,NOT NULL| L’identifiant de l'utilisateur
+|garden_ID| ENTITYPRIMARY KEY| NOT NULL| L’identifiant du jardin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Mzk3MTE0MCwtMTI3OTQwOTM0Myw2ND
+eyJoaXN0b3J5IjpbMTA2NTUyNDA0NCwtMTI3OTQwOTM0Myw2ND
 c2MDM5MiwyMTIxOTUwNzg4LC0xMzMzMTU2ODAwLC01MzcyNjc2
 NDUsMTA1ODUwNzg2NiwtODMyNTU3MjA1XX0=
 -->
