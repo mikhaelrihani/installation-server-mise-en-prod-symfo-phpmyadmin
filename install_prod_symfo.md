@@ -18,10 +18,10 @@
 
 |id |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| L’identifiant du jardin
 | title | VARCHAR(64) | NOT NULL | titre du jardin |
-| texte |VARCHAR(500)  |NOT NULL  | description du jardin|
-| adresse |VARCHAR(240)  |NOT NULL  | location du jardin |
-| code postal| INT  |NOT NULL  | code postal du jardin |
-| ville  |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | code postal du jardin  |
+| description |VARCHAR(500)  |NOT NULL  | description du jardin|
+| direction |VARCHAR(240)  |NOT NULL  | location du jardin |
+| postal code| INT  |NOT NULL  | code postal du jardin |
+| town |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | code postal du jardin  |
 | point d'eau | BOOL | NOT NULL,DEFAULT NO | point d'eau du jardin|
 |outils | VARCHAR(240) |  NULL| liste des outils disponible sur le jardin |
 | abri de jardin| BOOL | NOT NULL,DEFAULT NO | presence abri de jardin  |
@@ -39,7 +39,7 @@
 |USER_ID| ENTITY| PRIMARY KEY,NOT NULL| L’identifiant de l'utilisateur
 |Jardin_ID| ENTITYPRIMARY KEY| NOT NULL| L’identifiant du jardin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxMDM1MjM3LC0xMjc5NDA5MzQzLDY0Nz
+eyJoaXN0b3J5IjpbMTU0NjU5ODI1LC0xMjc5NDA5MzQzLDY0Nz
 YwMzkyLDIxMjE5NTA3ODgsLTEzMzMxNTY4MDAsLTUzNzI2NzY0
 NSwxMDU4NTA3ODY2LC04MzI1NTcyMDVdfQ==
 -->
