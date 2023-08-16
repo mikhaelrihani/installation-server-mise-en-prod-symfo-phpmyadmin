@@ -7,10 +7,10 @@
 | password |VARCHAR(64)  |NOT NULL  | mot de passe de l'utilisateur |
 | email |VARCHAR(240)  |NOT NULL  | email de l'utilisateur |
 | tel |INT  |NOT NULL  | te de l'utilisateur |
-| role |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | role de l'utilisateur  |
+| role |LIST_ENUM|NOT NULL ,DEFAULT USER  | role de l'utilisateur  |
 | avatar | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
-|crée le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
- |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification de user |
+|created_at | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
+ |updated_at |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification de user |
 
  ### Table jardin
 
@@ -29,8 +29,8 @@
 | état du jardin | VARCHAR(128) | NULL,DEFAULT AVATAR | état du jardin |
 |surface| LIST_ENUM | NOT NULL | Surface disponible du jardin |
 | utilisation telephone | BOOL | NOT NULL,DEFAULT NO | avatar  de l'utilisateur |
-|crée le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
-|mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification du jardin |
+|created_at | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
+ |updated_at |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification du jardin |
 |user_id| INT| FOREIGN KEY,NOT NULL | référence id propriétaire du jardin |
 
  ### Table PIVOT FAVORIS ou jardin_user
@@ -39,7 +39,7 @@
 |USER_ID| ENTITY| PRIMARY KEY,NOT NULL| L’identifiant de l'utilisateur
 |Jardin_ID| ENTITYPRIMARY KEY| NOT NULL| L’identifiant du jardin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTg4MTg3NSwtMTI3OTQwOTM0Myw2ND
-c2MDM5MiwyMTIxOTUwNzg4LC0xMzMzMTU2ODAwLC01MzcyNjc2
-NDUsMTA1ODUwNzg2NiwtODMyNTU3MjA1XX0=
+eyJoaXN0b3J5IjpbOTkxMDM1MjM3LC0xMjc5NDA5MzQzLDY0Nz
+YwMzkyLDIxMjE5NTA3ODgsLTEzMzMxNTY4MDAsLTUzNzI2NzY0
+NSwxMDU4NTA3ODY2LC04MzI1NTcyMDVdfQ==
 -->
