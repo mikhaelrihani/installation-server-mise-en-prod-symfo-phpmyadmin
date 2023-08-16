@@ -25,14 +25,14 @@
 | point d'eau | BOOL | NOT NULL,DEFAULT NO | point d'eau du jardin|
 |outils | VARCHAR(240) |  NULL| liste des outils disponible sur le jardin |
 | abri de jardin| BOOL | NOT NULL,DEFAULT NO | presence abri de jardin  |
-| photos |VARCHAR(64)  |DEFAULT USER  | photos du jardin  |
-| état du jardin | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
-|surface| TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
+| photos |VARCHAR(64)  |  | photos du jardin  |
+| état du jardin | VARCHAR(128) | NULL,DEFAULT AVATAR | état du jardin |
+|surface| TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | Surface disponible du  |
 | utilisation telephone | VARCHAR(128) | NULL,DEFAULT AVATAR | avatar  de l'utilisateur |
 
 |crée le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
  |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification de user |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMxNTY4MDAsLTUzNzI2NzY0NSwxMD
-U4NTA3ODY2LC04MzI1NTcyMDVdfQ==
+eyJoaXN0b3J5IjpbLTE1MDE1NTQwNzUsLTEzMzMxNTY4MDAsLT
+UzNzI2NzY0NSwxMDU4NTA3ODY2LC04MzI1NTcyMDVdfQ==
 -->
