@@ -16,12 +16,12 @@
 
 |Champ  | Type | Spécificités |Description |
 
-|id |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| L’identifiant du jardin
+|id_garden |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| identifiant du jardin
 | title | VARCHAR(64) | NOT NULL | titre du jardin |
 | description |VARCHAR(500)  |NOT NULL  | description du jardin|
-| direction |VARCHAR(240)  |NOT NULL  | location du jardin |
+| address|VARCHAR(240)  |NOT NULL  | adresse du jardin |
 | postal code| INT  |NOT NULL  | code postal du jardin |
-| town |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | code postal du jardin  |
+| town |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | ville du jardin  |
 | water | BOOL | NOT NULL,DEFAULT NO | point d'eau du jardin|
 |tool | VARCHAR(240) |  NULL| liste des outils disponible sur le jardin |
 | shed| BOOL | NOT NULL,DEFAULT NO | presence abri de jardin  |
@@ -39,7 +39,7 @@
 |user_id| ENTITY| PRIMARY KEY,NOT NULL| L’identifiant de l'utilisateur
 |garden_id| ENTITYPRIMARY KEY| NOT NULL| L’identifiant du jardin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDIyMDA2NTIsLTEyNzk0MDkzNDMsNj
-Q3NjAzOTIsMjEyMTk1MDc4OCwtMTMzMzE1NjgwMCwtNTM3MjY3
-NjQ1LDEwNTg1MDc4NjYsLTgzMjU1NzIwNV19
+eyJoaXN0b3J5IjpbLTQ4MTMyNjI4NCwtMTI3OTQwOTM0Myw2ND
+c2MDM5MiwyMTIxOTUwNzg4LC0xMzMzMTU2ODAwLC01MzcyNjc2
+NDUsMTA1ODUwNzg2NiwtODMyNTU3MjA1XX0=
 -->
