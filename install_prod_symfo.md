@@ -2,7 +2,7 @@
 
 |Champ  | Type | Spécificités |Description |
 
-|id_user |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| L’identifiant de l'utilisateur
+|id_user |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| L’identifiant de l'utilisateur|
 | username | VARCHAR(64) | NOT NULL | pseudo de l'utilisateur |
 | password |VARCHAR(64)  |NOT NULL  | mot de passe de l'utilisateur |
 | email |VARCHAR(240)  |NOT NULL  | email de l'utilisateur |
@@ -16,7 +16,7 @@
 
 |Champ  | Type | Spécificités |Description |
 
-|id_garden |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| identifiant du jardin
+|id_garden |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| identifiant du jardin|
 | title | VARCHAR(64) | NOT NULL | titre du jardin |
 | description |VARCHAR(500)  |NOT NULL  | description du jardin|
 | address| VARCHAR(240)  |NOT NULL  | adresse du jardin |
@@ -36,10 +36,10 @@
  ### Table favorite ou garden_user
 
 |Champ  | Type | Spécificités |Description |
-|user_id| ENTITY| PRIMARY KEY,NOT NULL| L’identifiant de l'utilisateur
-|garden_id| ENTITYPRIMARY KEY| NOT NULL| L’identifiant du jardin
+|user_id| ENTITY| PRIMARY KEY,NOT NULL| L’identifiant de l'utilisateur|
+|garden_id| ENTITYPRIMARY KEY| NOT NULL| L’identifiant du jardin|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTk0NTUyNiwtMTI3OTQwOTM0Myw2ND
-c2MDM5MiwyMTIxOTUwNzg4LC0xMzMzMTU2ODAwLC01MzcyNjc2
-NDUsMTA1ODUwNzg2NiwtODMyNTU3MjA1XX0=
+eyJoaXN0b3J5IjpbNzA4NzE4NjkyLC0xMjc5NDA5MzQzLDY0Nz
+YwMzkyLDIxMjE5NTA3ODgsLTEzMzMxNTY4MDAsLTUzNzI2NzY0
+NSwxMDU4NTA3ODY2LC04MzI1NTcyMDVdfQ==
 -->
