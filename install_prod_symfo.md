@@ -18,7 +18,7 @@
 
 |id_jardin |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT| L’identifiant du jardin
 | title | VARCHAR(64) | NOT NULL | titre du jardin |
-| texte |VARCHAR(64)  |NOT NULL  | texte du jardin|
+| texte |VARCHAR(500)  |NOT NULL  | texte du jardin|
 | adresse |VARCHAR(240)  |NOT NULL  | adresse du jardin |
 | code postal| INT  |NOT NULL  | code postal du jardin |
 | ville  |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | role de l'utilisateur  |
@@ -33,5 +33,6 @@
 |crée le | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
  |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification de user |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODUwNzg2NiwtODMyNTU3MjA1XX0=
+eyJoaXN0b3J5IjpbLTUzNzI2NzY0NSwxMDU4NTA3ODY2LC04Mz
+I1NTcyMDVdfQ==
 -->
