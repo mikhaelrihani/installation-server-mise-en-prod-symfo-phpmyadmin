@@ -128,6 +128,12 @@ php bin/console cache:clear
 - cloner le script serveur : git clone git@github.com:O-Clock-Vega/S08-script-serveur.git
 - depuis le dossier du script : sh installation-serveur.sh
 
+
+doc relatif a la bdd 
+mcd
+mld
+dico de donnees
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjU1NzIwNV19
+eyJoaXN0b3J5IjpbMzk0MTQ3NTY5LC04MzI1NTcyMDVdfQ==
 -->
