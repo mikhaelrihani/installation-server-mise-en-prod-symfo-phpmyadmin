@@ -1,10 +1,11 @@
  
 |Champ  | Type | Spécificités |Description |
-|id_user  |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT |  |
-|  |  |  |  |
+|id_user  |INT  | PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT
 
-
-
+| username |  |  |  |
+| username |  |  |  |
+| username |  |  |  |
+| username |  |  |  |
 INT
 
 PRIMARY KEY, UNSIGNED, NOT NULL, AUTO_INCREMENT
@@ -43,5 +44,5 @@ NOT NULL, DEFAULT CURRENT_TIMESTAMP
 
 La date de dernière modification
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNzM4Mjc4LC04MzI1NTcyMDVdfQ==
+eyJoaXN0b3J5IjpbMTA3NTM1ODgwNCwtODMyNTU3MjA1XX0=
 -->
