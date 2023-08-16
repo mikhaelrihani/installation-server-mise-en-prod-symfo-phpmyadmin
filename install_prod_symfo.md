@@ -33,12 +33,12 @@
 |mis_a_jour_le |TIMESTAMP  | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de dernière modification du jardin |
 |user_id| INT| FOREIGN KEY,NOT NULL | référence id propriétaire du jardin |
 
- ### Table PIVOT FAVORIS
+ ### Table PIVOT FAVORIS ou jardin_user
 
 |Champ  | Type | Spécificités |Description |
 |USER_ID| ENTITYPRIMARY KEY| NOT NULL| L’identifiant de l'utilisateur
 |Jardin_ID| ENTITYPRIMARY KEY| NOT NULL| L’identifiant du jardin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDExNTY1MTIsLTEzMzMxNTY4MDAsLT
-UzNzI2NzY0NSwxMDU4NTA3ODY2LC04MzI1NTcyMDVdfQ==
+eyJoaXN0b3J5IjpbMjEyMTk1MDc4OCwtMTMzMzE1NjgwMCwtNT
+M3MjY3NjQ1LDEwNTg1MDc4NjYsLTgzMjU1NzIwNV19
 -->
