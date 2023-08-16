@@ -22,11 +22,11 @@
 | direction |VARCHAR(240)  |NOT NULL  | location du jardin |
 | postal code| INT  |NOT NULL  | code postal du jardin |
 | town |VARCHAR(64)  |NOT NULL ,DEFAULT USER  | code postal du jardin  |
-| point d'eau | BOOL | NOT NULL,DEFAULT NO | point d'eau du jardin|
-|outils | VARCHAR(240) |  NULL| liste des outils disponible sur le jardin |
-| abri de jardin| BOOL | NOT NULL,DEFAULT NO | presence abri de jardin  |
-| photos |LIST_ENUM |NULL  | photos du jardin  |
-| état du jardin | VARCHAR(128) | NULL,DEFAULT AVATAR | état du jardin |
+| water | BOOL | NOT NULL,DEFAULT NO | point d'eau du jardin|
+|tool | VARCHAR(240) |  NULL| liste des outils disponible sur le jardin |
+| shed| BOOL | NOT NULL,DEFAULT NO | presence abri de jardin  |
+| picture |LIST_ENUM |NULL  | photos du jardin  |
+| state | VARCHAR(128) | NULL,DEFAULT AVATAR | état du jardin |
 |surface| LIST_ENUM | NOT NULL | Surface disponible du jardin |
 | utilisation telephone | BOOL | NOT NULL,DEFAULT NO | avatar  de l'utilisateur |
 |created_at | TIMESTAMP | NOT NULL, DEFAULT CURRENT_TIMESTAMP | La date de création |
@@ -39,7 +39,7 @@
 |USER_ID| ENTITY| PRIMARY KEY,NOT NULL| L’identifiant de l'utilisateur
 |Jardin_ID| ENTITYPRIMARY KEY| NOT NULL| L’identifiant du jardin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjU5ODI1LC0xMjc5NDA5MzQzLDY0Nz
-YwMzkyLDIxMjE5NTA3ODgsLTEzMzMxNTY4MDAsLTUzNzI2NzY0
-NSwxMDU4NTA3ODY2LC04MzI1NTcyMDVdfQ==
+eyJoaXN0b3J5IjpbLTQ5Mzk3MTE0MCwtMTI3OTQwOTM0Myw2ND
+c2MDM5MiwyMTIxOTUwNzg4LC0xMzMzMTU2ODAwLC01MzcyNjc2
+NDUsMTA1ODUwNzg2NiwtODMyNTU3MjA1XX0=
 -->
