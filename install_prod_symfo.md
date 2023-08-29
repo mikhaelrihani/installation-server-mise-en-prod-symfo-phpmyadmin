@@ -57,7 +57,8 @@ https://github.com/O-Clock-Vega/S08-script-serveur
 - APP_ENV=prod APP_DEBUG=0 php bin/console cache:clear
 
 ### apache
-- composer update  --optimize-autoloader --no-dev 
+
+- composer require symfony/apache-pack --no-update
 - verifier que le ht access a bien été configure : 
 ->cd public
 ->cat .htaccess
@@ -129,5 +130,5 @@ php bin/console cache:clear
 - depuis le dossier du script : sh installation-serveur.sh
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjU1NzIwNV19
+eyJoaXN0b3J5IjpbMTkxMTQ1OTMyMywtODMyNTU3MjA1XX0=
 -->
