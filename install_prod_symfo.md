@@ -81,24 +81,29 @@ depuis la racine de la machine :
 - sudo nano site.conf
 - entrez ce bout ce code et finir par ctrl x, y,entree
 
+````Alias /opotager /var/www/html/projet-01-le-reseau-social-du-potager-back/public
+
 <VirtualHost *:80>
 
-    ServerName mikhaelrihani-server.eddi.cloud
-    
-    DocumentRoot /var/www/html/symfo-oflix-journee-19-mikhaelrihani/public
-    
-    ErrorLog /var/log/apache2/project_error.log
-    CustomLog /var/log/apache2/project_access.log combined
-    
-    <Directory /var/www/html/symfo-oflix-journee-19-mikhaelrihani/public>     
-                Options indexes
-                AllowOverride all
-                Allow from all
-                Require all granted
-                
-    </Directory>
-    RewriteEngine on
-     </VirtualHost>
+ServerName mikhaelrihani-server.eddi.cloud
+
+DocumentRoot /var/www/html/projet-01-le-reseau-social-du-potager-back/public
+
+ErrorLog /var/log/apache2/project_error.log
+CustomLog /var/log/apache2/project_access.log combined
+
+<Directory /var/www/html/projet-01-le-reseau-social-du-potager-back/public>
+            Options indexes
+            AllowOverride all
+            Allow from all
+            Require all granted
+
+</Directory>
+RewriteEngine on
+ </VirtualHost>
+ ```
+
+
 ##### activer virtual host:
 -  `sudo a2ensite site.conf`
 - sudo a2dissite 000-default.conf
@@ -131,5 +136,6 @@ php bin/console cache:clear
 - depuis le dossier du script : sh installation-serveur.sh
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyODM2NTc1LC04MzI1NTcyMDVdfQ==
+eyJoaXN0b3J5IjpbMTU0OTA2NTYyMSw0MTI4MzY1NzUsLTgzMj
+U1NzIwNV19
 -->
