@@ -81,7 +81,7 @@ depuis la racine de la machine :
 - sudo nano site.conf
 - entrez ce bout ce code et finir par ctrl x, y,entree
 
-````Alias /opotager /var/www/html/projet-01-le-reseau-social-du-potager-back/public
+```Alias /opotager /var/www/html/projet-01-le-reseau-social-du-potager-back/public
 
 <VirtualHost *:80>
 
@@ -136,6 +136,6 @@ php bin/console cache:clear
 - depuis le dossier du script : sh installation-serveur.sh
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTA2NTYyMSw0MTI4MzY1NzUsLTgzMj
-U1NzIwNV19
+eyJoaXN0b3J5IjpbLTE4MzQ5ODU5NDUsNDEyODM2NTc1LC04Mz
+I1NTcyMDVdfQ==
 -->
